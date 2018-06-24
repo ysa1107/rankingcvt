@@ -1,1 +1,2211 @@
-{"group_name":"C\u1ed9ng \u0111\u1ed3ng Ch\u1eef Vi\u1ebft Tay \u2705","pending_posts":0,"engagement":{"daily_post_count":[{"time":1527231600,"value":4},{"time":1527318000,"value":11},{"time":1527404400,"value":6},{"time":1527490800,"value":3},{"time":1527577200,"value":10},{"time":1527663600,"value":6},{"time":1527750000,"value":10},{"time":1527836400,"value":7},{"time":1527922800,"value":2},{"time":1528009200,"value":4},{"time":1528095600,"value":6},{"time":1528182000,"value":1},{"time":1528268400,"value":3},{"time":1528354800,"value":2},{"time":1528441200,"value":7},{"time":1528527600,"value":5},{"time":1528614000,"value":1},{"time":1528700400,"value":9},{"time":1528786800,"value":5},{"time":1528873200,"value":7},{"time":1528959600,"value":5},{"time":1529046000,"value":8},{"time":1529132400,"value":7},{"time":1529218800,"value":0},{"time":1529305200,"value":4},{"time":1529391600,"value":9},{"time":1529478000,"value":6},{"time":1529564400,"value":7},{"time":1529650800,"value":1},{"time":1529737200,"value":17}],"total_post_count":173,"post_delta":-0.24782608695652,"daily_comment_count":[{"time":1527231600,"value":15},{"time":1527318000,"value":62},{"time":1527404400,"value":20},{"time":1527490800,"value":14},{"time":1527577200,"value":68},{"time":1527663600,"value":58},{"time":1527750000,"value":64},{"time":1527836400,"value":156},{"time":1527922800,"value":59},{"time":1528009200,"value":21},{"time":1528095600,"value":46},{"time":1528182000,"value":0},{"time":1528268400,"value":0},{"time":1528354800,"value":8},{"time":1528441200,"value":47},{"time":1528527600,"value":31},{"time":1528614000,"value":22},{"time":1528700400,"value":48},{"time":1528786800,"value":26},{"time":1528873200,"value":73},{"time":1528959600,"value":72},{"time":1529046000,"value":67},{"time":1529132400,"value":42},{"time":1529218800,"value":15},{"time":1529305200,"value":21},{"time":1529391600,"value":62},{"time":1529478000,"value":48},{"time":1529564400,"value":92},{"time":1529650800,"value":21},{"time":1529737200,"value":330}],"total_comment_count":1608,"comment_delta":-0.076392877656519,"daily_like_count":[{"time":1527231600,"value":168},{"time":1527318000,"value":442},{"time":1527404400,"value":261},{"time":1527490800,"value":130},{"time":1527577200,"value":344},{"time":1527663600,"value":183},{"time":1527750000,"value":288},{"time":1527836400,"value":333},{"time":1527922800,"value":109},{"time":1528009200,"value":106},{"time":1528095600,"value":232},{"time":1528182000,"value":60},{"time":1528268400,"value":75},{"time":1528354800,"value":113},{"time":1528441200,"value":178},{"time":1528527600,"value":285},{"time":1528614000,"value":77},{"time":1528700400,"value":131},{"time":1528786800,"value":137},{"time":1528873200,"value":212},{"time":1528959600,"value":260},{"time":1529046000,"value":341},{"time":1529132400,"value":351},{"time":1529218800,"value":95},{"time":1529305200,"value":89},{"time":1529391600,"value":304},{"time":1529478000,"value":299},{"time":1529564400,"value":412},{"time":1529650800,"value":218},{"time":1529737200,"value":1131}],"total_like_count":7364,"like_delta":-0.24355418592707,"daily_active_member_count":[{"time":1527231600,"value":878},{"time":1527318000,"value":1290},{"time":1527404400,"value":928},{"time":1527490800,"value":895},{"time":1527577200,"value":1288},{"time":1527663600,"value":1294},{"time":1527750000,"value":1134},{"time":1527836400,"value":1520},{"time":1527922800,"value":792},{"time":1528009200,"value":592},{"time":1528095600,"value":795},{"time":1528182000,"value":542},{"time":1528268400,"value":529},{"time":1528354800,"value":803},{"time":1528441200,"value":743},{"time":1528527600,"value":992},{"time":1528614000,"value":424},{"time":1528700400,"value":707},{"time":1528786800,"value":936},{"time":1528873200,"value":937},{"time":1528959600,"value":980},{"time":1529046000,"value":1056},{"time":1529132400,"value":1182},{"time":1529218800,"value":642},{"time":1529305200,"value":630},{"time":1529391600,"value":958},{"time":1529478000,"value":1316},{"time":1529564400,"value":1242},{"time":1529650800,"value":1194},{"time":1529737200,"value":1980}],"active_member_count":2974,"weekly_activity_breakdown":[{"value":189,"name":"Monday"},{"value":222,"name":"Tuesday"},{"value":231,"name":"Wednesday"},{"value":290,"name":"Thursday"},{"value":339,"name":"Friday"},{"value":384,"name":"Saturday"},{"value":202,"name":"Sunday"}],"hourly_activity_breakdown":[{"name":"Monday","results":[{"name":"12 AM","value":3,"value_string":"3"},{"name":"1 AM","value":2,"value_string":"2"},{"name":"2 AM","value":1,"value_string":"1"},{"name":"3 AM","value":1,"value_string":"1"},{"name":"4 AM","value":1,"value_string":"1"},{"name":"5 AM","value":2,"value_string":"2"},{"name":"6 AM","value":6,"value_string":"6"},{"name":"7 AM","value":5,"value_string":"5"},{"name":"8 AM","value":9,"value_string":"9"},{"name":"9 AM","value":6,"value_string":"6"},{"name":"10 AM","value":3,"value_string":"3"},{"name":"11 AM","value":6,"value_string":"6"},{"name":"12 PM","value":7,"value_string":"7"},{"name":"1 PM","value":12,"value_string":"12"},{"name":"2 PM","value":2,"value_string":"2"},{"name":"3 PM","value":4,"value_string":"4"},{"name":"4 PM","value":8,"value_string":"8"},{"name":"5 PM","value":8,"value_string":"8"},{"name":"6 PM","value":12,"value_string":"12"},{"name":"7 PM","value":32,"value_string":"32"},{"name":"8 PM","value":16,"value_string":"16"},{"name":"9 PM","value":20,"value_string":"20"},{"name":"10 PM","value":22,"value_string":"22"},{"name":"11 PM","value":3,"value_string":"3"}]},{"name":"Tuesday","results":[{"name":"12 AM","value":2,"value_string":"2"},{"name":"1 AM","value":1,"value_string":"1"},{"name":"2 AM","value":0,"value_string":"0"},{"name":"3 AM","value":0,"value_string":"0"},{"name":"4 AM","value":0,"value_string":"0"},{"name":"5 AM","value":1,"value_string":"1"},{"name":"6 AM","value":4,"value_string":"4"},{"name":"7 AM","value":4,"value_string":"4"},{"name":"8 AM","value":15,"value_string":"15"},{"name":"9 AM","value":4,"value_string":"4"},{"name":"10 AM","value":10,"value_string":"10"},{"name":"11 AM","value":8,"value_string":"8"},{"name":"12 PM","value":8,"value_string":"8"},{"name":"1 PM","value":3,"value_string":"3"},{"name":"2 PM","value":4,"value_string":"4"},{"name":"3 PM","value":6,"value_string":"6"},{"name":"4 PM","value":8,"value_string":"8"},{"name":"5 PM","value":13,"value_string":"13"},{"name":"6 PM","value":39,"value_string":"39"},{"name":"7 PM","value":31,"value_string":"31"},{"name":"8 PM","value":22,"value_string":"22"},{"name":"9 PM","value":18,"value_string":"18"},{"name":"10 PM","value":13,"value_string":"13"},{"name":"11 PM","value":12,"value_string":"12"}]},{"name":"Wednesday","results":[{"name":"12 AM","value":1,"value_string":"1"},{"name":"1 AM","value":2,"value_string":"2"},{"name":"2 AM","value":1,"value_string":"1"},{"name":"3 AM","value":1,"value_string":"1"},{"name":"4 AM","value":0,"value_string":"0"},{"name":"5 AM","value":1,"value_string":"1"},{"name":"6 AM","value":3,"value_string":"3"},{"name":"7 AM","value":12,"value_string":"12"},{"name":"8 AM","value":10,"value_string":"10"},{"name":"9 AM","value":8,"value_string":"8"},{"name":"10 AM","value":7,"value_string":"7"},{"name":"11 AM","value":17,"value_string":"17"},{"name":"12 PM","value":17,"value_string":"17"},{"name":"1 PM","value":14,"value_string":"14"},{"name":"2 PM","value":9,"value_string":"9"},{"name":"3 PM","value":19,"value_string":"19"},{"name":"4 PM","value":7,"value_string":"7"},{"name":"5 PM","value":14,"value_string":"14"},{"name":"6 PM","value":10,"value_string":"10"},{"name":"7 PM","value":5,"value_string":"5"},{"name":"8 PM","value":5,"value_string":"5"},{"name":"9 PM","value":26,"value_string":"26"},{"name":"10 PM","value":26,"value_string":"26"},{"name":"11 PM","value":18,"value_string":"18"}]},{"name":"Thursday","results":[{"name":"12 AM","value":6,"value_string":"6"},{"name":"1 AM","value":2,"value_string":"2"},{"name":"2 AM","value":1,"value_string":"1"},{"name":"3 AM","value":1,"value_string":"1"},{"name":"4 AM","value":1,"value_string":"1"},{"name":"5 AM","value":5,"value_string":"5"},{"name":"6 AM","value":8,"value_string":"8"},{"name":"7 AM","value":6,"value_string":"6"},{"name":"8 AM","value":5,"value_string":"5"},{"name":"9 AM","value":13,"value_string":"13"},{"name":"10 AM","value":7,"value_string":"7"},{"name":"11 AM","value":15,"value_string":"15"},{"name":"12 PM","value":19,"value_string":"19"},{"name":"1 PM","value":15,"value_string":"15"},{"name":"2 PM","value":7,"value_string":"7"},{"name":"3 PM","value":21,"value_string":"21"},{"name":"4 PM","value":10,"value_string":"10"},{"name":"5 PM","value":13,"value_string":"13"},{"name":"6 PM","value":13,"value_string":"13"},{"name":"7 PM","value":23,"value_string":"23"},{"name":"8 PM","value":20,"value_string":"20"},{"name":"9 PM","value":41,"value_string":"41"},{"name":"10 PM","value":23,"value_string":"23"},{"name":"11 PM","value":16,"value_string":"16"}]},{"name":"Friday","results":[{"name":"12 AM","value":7,"value_string":"7"},{"name":"1 AM","value":2,"value_string":"2"},{"name":"2 AM","value":1,"value_string":"1"},{"name":"3 AM","value":1,"value_string":"1"},{"name":"4 AM","value":2,"value_string":"2"},{"name":"5 AM","value":5,"value_string":"5"},{"name":"6 AM","value":9,"value_string":"9"},{"name":"7 AM","value":14,"value_string":"14"},{"name":"8 AM","value":11,"value_string":"11"},{"name":"9 AM","value":8,"value_string":"8"},{"name":"10 AM","value":14,"value_string":"14"},{"name":"11 AM","value":40,"value_string":"40"},{"name":"12 PM","value":22,"value_string":"22"},{"name":"1 PM","value":14,"value_string":"14"},{"name":"2 PM","value":10,"value_string":"10"},{"name":"3 PM","value":7,"value_string":"7"},{"name":"4 PM","value":5,"value_string":"5"},{"name":"5 PM","value":7,"value_string":"7"},{"name":"6 PM","value":20,"value_string":"20"},{"name":"7 PM","value":29,"value_string":"29"},{"name":"8 PM","value":30,"value_string":"30"},{"name":"9 PM","value":28,"value_string":"28"},{"name":"10 PM","value":32,"value_string":"32"},{"name":"11 PM","value":27,"value_string":"27"}]},{"name":"Saturday","results":[{"name":"12 AM","value":5,"value_string":"5"},{"name":"1 AM","value":1,"value_string":"1"},{"name":"2 AM","value":1,"value_string":"1"},{"name":"3 AM","value":0,"value_string":"0"},{"name":"4 AM","value":1,"value_string":"1"},{"name":"5 AM","value":5,"value_string":"5"},{"name":"6 AM","value":10,"value_string":"10"},{"name":"7 AM","value":9,"value_string":"9"},{"name":"8 AM","value":10,"value_string":"10"},{"name":"9 AM","value":14,"value_string":"14"},{"name":"10 AM","value":13,"value_string":"13"},{"name":"11 AM","value":17,"value_string":"17"},{"name":"12 PM","value":22,"value_string":"22"},{"name":"1 PM","value":33,"value_string":"33"},{"name":"2 PM","value":12,"value_string":"12"},{"name":"3 PM","value":23,"value_string":"23"},{"name":"4 PM","value":19,"value_string":"19"},{"name":"5 PM","value":32,"value_string":"32"},{"name":"6 PM","value":17,"value_string":"17"},{"name":"7 PM","value":25,"value_string":"25"},{"name":"8 PM","value":30,"value_string":"30"},{"name":"9 PM","value":45,"value_string":"45"},{"name":"10 PM","value":21,"value_string":"21"},{"name":"11 PM","value":20,"value_string":"20"}]},{"name":"Sunday","results":[{"name":"12 AM","value":12,"value_string":"12"},{"name":"1 AM","value":2,"value_string":"2"},{"name":"2 AM","value":0,"value_string":"0"},{"name":"3 AM","value":2,"value_string":"2"},{"name":"4 AM","value":4,"value_string":"4"},{"name":"5 AM","value":4,"value_string":"4"},{"name":"6 AM","value":14,"value_string":"14"},{"name":"7 AM","value":9,"value_string":"9"},{"name":"8 AM","value":12,"value_string":"12"},{"name":"9 AM","value":14,"value_string":"14"},{"name":"10 AM","value":5,"value_string":"5"},{"name":"11 AM","value":11,"value_string":"11"},{"name":"12 PM","value":11,"value_string":"11"},{"name":"1 PM","value":10,"value_string":"10"},{"name":"2 PM","value":8,"value_string":"8"},{"name":"3 PM","value":6,"value_string":"6"},{"name":"4 PM","value":9,"value_string":"9"},{"name":"5 PM","value":7,"value_string":"7"},{"name":"6 PM","value":22,"value_string":"22"},{"name":"7 PM","value":10,"value_string":"10"},{"name":"8 PM","value":3,"value_string":"3"},{"name":"9 PM","value":7,"value_string":"7"},{"name":"10 PM","value":17,"value_string":"17"},{"name":"11 PM","value":7,"value_string":"7"}]}],"top_posts_breakdown":[{"story":{"id":"UzpfSTcxNTg3MTE2ODYwMTgxOTo4NDQyOTMxNjkwOTI5NTE=","message":{"text":"M\u00ecnh ch\u1ec9 l\u00e0 1 ng\u01b0\u1eddi vi\u1ebft d\u1ea1o th\u00f4i. Hihi :-)"},"url":"https:\/\/www.facebook.com\/groups\/chuviettay\/permalink\/844293169092951\/"},"author":{"id":"100016238052441","name":"My Tien","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p50x50\/26230775_201156767102257_7247244169440761282_n.jpg?_nc_cat=0&_nc_eui2=AeG5_bVLi6EUrPp5QpPDKQG85BN5a3zpIibbcK0kpXXe3Kp5teG8T3_mSie_-R-I327vSWMeuBkB9MxS8wg7ZYKmcpLVLv2Bi4k4k9Fy7EI9Lg&oh=85b03b39d57aef3b258f4821ae4e106e&oe=5BAFB813"},"url":"https:\/\/www.facebook.com\/mytien.nguyen.1805hoaanhtuc"},"comment_count":220,"like_count":128,"view_count":1569},{"story":{"id":"UzpfSTcxNTg3MTE2ODYwMTgxOTo4NDMxNDc2NjU4NzQxNjg=","message":{"text":"T\u1eb7ng ch\u1eef \ud83c\udf37\ud83c\udf37\ud83c\udf37"},"url":"https:\/\/www.facebook.com\/groups\/chuviettay\/permalink\/843147665874168\/"},"author":{"id":"100004288663520","name":"Hong Van","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p50x50\/23755310_929559530530327_1491977633091380075_n.jpg?_nc_cat=0&_nc_eui2=AeGCLghQnIAflhrNCUSbnVj6hJ6WXehrrKImIYMNGGkijbYaksnL1fwHArsb5pMii1Am_Lziktz5j0S4mpaVCLpc4JAgARHuCP5hT5WYnhCgwg&oh=6e2fca8992040b883c98daa249782f7b&oe=5BB67D0E"},"url":null},"comment_count":53,"like_count":91,"view_count":1559},{"story":{"id":"UzpfSTcxNTg3MTE2ODYwMTgxOTo4NTAxNzI2MzE4MzgzMzg=","message":{"text":"Ng\u00e0y c\u00f2n \u0111i h\u1ecdc, c\u00f4 gi\u00e1o g\u1ecdi t\u00ean anh, c\u1ea3 l\u1edbp quay sang nh\u00ecn em.\n\nSau n\u00e0y ra Tr\u01b0\u1eddng, th\u1eadm ch\u00ed khi \u0111\u00e3 chia tay nhau \u0111\u1ebfn l\u1edbp kh\u00f4ng c\u00f3 m\u1eb7t anh m\u1ecdi ng\u01b0\u1eddi c\u0169ng quay sang nh\u00ecn em \ud83d\ude0c\n\nRa n\u00e9t c\u00f4 qu\u00e1n n\u00e9t c\u0169ng h\u1ecfi... Sao dao n\u00e0y hay \u0110i 1 m\u00ecnh v\u1eady  :) anh \u0111\u00e2u :)\n\n\u0110i tr\u00e0 s\u1eefa 1 m\u00ecnh ch\u1ecb ch\u1ee7 qu\u00e1n c\u0169ng h\u1ecfi ny \u0111\u00e2u :) s\u1ea1o \u0110i 1 m\u00ecnh \ud83d\ude0a s\u1eafp thi r\u1ed3i nh\u1ec9... Hihi \ud83d\ude0a 2 \u0111\u1ee9a c\u0169ng ch\u1ea3 c\u00f2n nhi\u1ec1u th\u01a1i gian b\u00ean c\u1ea1nh nhau n\u1eefa :)\n\nG\u1eb7p c\u00e1c b\u00e1c,  c\u00e1c ch\u00fa anh :)  m.n \u0111\u1ec1u n\u00f3i b\u1ea3o y\u00eau th\u1eb1ng ch\u00e1u ch\u00fa nh\u1ec9, dao n\u00e0y 2 \u0111\u1ee9a th\u1ebf n\u00e0o...  Vv :)\n\nM\u1ea5y \u0111\u1ee9a b\u1ea1n v\u00e0 th\u1ea7y c\u00f4 \u0111\u1ec1u h\u1ecfi em 1 c\u00e2u m\u00e0y v\u1edbi *** d\u00e0o n\u00e0y th\u1ebf n\u00e0o r\u1ed3i  \ud83d\ude0a bu\u1ed3n v\u1eady  \ud83d\ude0a\nEm c\u0169ng ch\u1ec9 c\u01b0\u1eddi v\u00e0 k \u0111\u00e1p l\u1ea1i  \ud83d\ude0a\n\nSau n\u00e0y, \ud83d\ude0ath\u1ea5y anh ngo\u00e0i \u0111\u01b0\u1eddng, ng\u01b0\u1eddi ta c\u0169ng ch\u1ee5p \u1ea3nh l\u1ea1i g\u1eedi cho em.\n\nM\u1ecdi v\u1ea5n \u0111\u1ec1 c\u1ee7a anh, t\u1ea5t c\u1ea3 \u0111\u1ec1u cho r\u1eb1ng s\u1ebd li\u00ean quan \u0111\u1ebfn em. Nh\u01b0ng sai r\u1ed3i, em n\u00e0o \u0111\u00e2u c\u00f3 bi\u1ebft g\u00ec? \ud83d\ude11\ud83d\ude11\ud83d\ude11\n\nCho n\u00ean, l\u1ec5 c\u01b0\u1edbi c\u1ee7a anh, t\u1ed1t nh\u1ea5t \u0111\u1eebng m\u1eddi em. Em kh\u00f4ng \u0111\u1ebfn, ch\u1eafc ch\u1eafn s\u1ebd kh\u00f4ng \u0111\u1ebfn. C\u00f4 d\u00e2u c\u1ee7a anh \u0111\u1ee9ng \u0111\u00f3, m\u00e0 m\u1ecdi ng\u01b0\u1eddi c\u1ee9 quay sang nh\u00ecn em th\u00ec k\u1ef3 qu\u00e1. \ud83d\ude0a\ud83d\ude0a\ud83d\ude0a\n\nEm v\u00e0 anh s\u1edbm \u0111\u00e3 ch\u1eb3ng c\u00f2n l\u00e0 g\u00ec, ch\u00fang ta \u0111\u1ec1u bi\u1ebft, nh\u01b0ng th\u1ebf gi\u1edbi n\u00e0y l\u00e0 v\u1eady. \u0110\u00e2u ph\u1ea3i c\u1ee9 chia tay l\u00e0 xong chuy\u1ec7n? C\u00f3 th\u1ec3 anh s\u1edbm \u0111\u00e3 qu\u00ean, em c\u0169ng kh\u00f4ng mu\u1ed1n nh\u1edb. Nh\u01b0ng ng\u01b0\u1eddi kh\u00e1c th\u00ec kh\u00f4ng. T\u00ecnh y\u00eau c\u1ee7a ch\u00fang ta v\u1eabn \u1edf \u0111\u00f3, \u00edt nh\u1ea5t l\u00e0 trong t\u00e2m tr\u00ed c\u1ee7a nh\u1eefng ng\u01b0\u1eddi bi\u1ebft anh, bi\u1ebft em, bi\u1ebft nh\u1eefng th\u00e1ng ng\u00e0y ch\u00fang ta c\u00f9ng \u0111i tr\u00ean m\u1ed9t con \u0111\u01b0\u1eddng...\n#\u0110\u1eebngainh\u1eafcv\u1ec1anh\u1ea5y \n#3year #1ch\u1eb7ng\u0111\u01b0\u1eddng  \ud83d\udc94"},"url":"https:\/\/www.facebook.com\/groups\/chuviettay\/permalink\/850172631838338\/"},"author":{"id":"100011135491191","name":"Nguy\u1ec5n Th\u1ecb D\u1ecbu","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/c0.0.50.50\/p50x50\/35971266_588783328169512_1746722414273757184_n.jpg?_nc_cat=0&_nc_eui2=AeHSb8M6gTT6ZG_BKmv1a2iKK8I6L3__klEX4w9NOyPJXdDhqrpHaOBzBsHq-phuZ4MroHKGkHI2ZbN8Wmsj9qNnqLUXjrOIejkO2KcjZ0hNdA&oh=a858631c7887bb26c0f93ff8445e5e64&oe=5BA5EC82"},"url":"https:\/\/www.facebook.com\/profile.php?id=100011135491191"},"comment_count":48,"like_count":76,"view_count":739},{"story":{"id":"UzpfSTcxNTg3MTE2ODYwMTgxOTo4NTUwNTIyNTgwMTcwNDI=","message":{"text":"Luy\u1ec7n c\u01a1 tay t\u00fd n\u00e0o \nC\u00f3 ai c\u00f3 c\u00e2u n\u00e0o hay kh\u00f4ng cho em xin v\u1ec1 ch\u00e9p v\u1edbi \u1ea1\ud83d\ude18\ud83d\ude18\ud83d\ude18"},"url":"https:\/\/www.facebook.com\/groups\/chuviettay\/permalink\/855052258017042\/"},"author":{"id":"100014642596932","name":"Nguy\u1ec5n Huy","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p50x50\/32231260_379070929257657_8369958178258944000_n.jpg?_nc_cat=0&_nc_eui2=AeErgLyGnwgbyy6N3EmeFXrWnMfghxSN2l3Zd8G2Exng-T_aP8ZYuItn3QVUWw5DaAInsHzFF878uDkp26ebqaHI_TL-y9mtXPpNQ7wGYyiPUQ&oh=00283a69214ebcc476e8532d17f9fd7e&oe=5BA87FB8"},"url":"https:\/\/www.facebook.com\/profile.php?id=100014642596932"},"comment_count":45,"like_count":72,"view_count":540},{"story":{"id":"UzpfSTcxNTg3MTE2ODYwMTgxOTo4NDM3NzAxOTkxNDUyNDg=","message":{"text":"Ng\u00e0y ng\u01b0\u1eddi th\u01b0\u01a1ng m\u1ed9t ng\u01b0\u1eddi th\u01b0\u01a1ng kh\u00e1c :))"},"url":"https:\/\/www.facebook.com\/groups\/chuviettay\/permalink\/843770199145248\/"},"author":{"id":"100010874708484","name":"D\u1ea1 L\u00fd","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p50x50\/36176435_604555946583557_5574199395030663168_n.jpg?_nc_cat=0&_nc_eui2=AeHSfXpAEz-e2emEzWYcf7qsakSaK4Ja6m1WSp96gkTfki5mt4yR5b5Nnwod_W78UdkH2CEBH0_6LDsCln5Bdvdoyx290CPOTnghNV9QQBmdGA&oh=0f4fcf9214e581a52d836f8238df54ae&oe=5BA79C94"},"url":"https:\/\/www.facebook.com\/profile.php?id=100010874708484"},"comment_count":36,"like_count":98,"view_count":933},{"story":{"id":"UzpfSTcxNTg3MTE2ODYwMTgxOTo4NTE2NzA2MjUwMjE4NzI=","message":{"text":"Mong manh l\u1eafm :("},"url":"https:\/\/www.facebook.com\/groups\/chuviettay\/permalink\/851670625021872\/"},"author":{"id":"100023320621140","name":"\u0110\u1ea1i Nguy\u1ec5n Xu\u00e2n","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p50x50\/32579370_208628376591182_6870902321509826560_n.jpg?_nc_cat=0&_nc_eui2=AeE0P7SfSCewDBfPN5kJtQ7SuRTJq3iecV0-rx-W8O1f4pIxhNyiG-WjbcicKCqJYgruYveW9YXmmNyhMEkbGK4gNsvx7uNT79AhrawuRlKiQg&oh=21e2be2f7468938dd4db771a73c7caee&oe=5BAD1D3B"},"url":"https:\/\/www.facebook.com\/profile.php?id=100023320621140"},"comment_count":36,"like_count":86,"view_count":692},{"story":{"id":"UzpfSTcxNTg3MTE2ODYwMTgxOTo4NDgxMDc5MjUzNzgxNDI=","message":{"text":"Ch\u1ec9 b\u1ea5y nhi\u00eau l\u00e0 \u0111\u1ee7 th\u1ecfa m\u00e3n =))"},"url":"https:\/\/www.facebook.com\/groups\/chuviettay\/permalink\/848107925378142\/"},"author":{"id":"100008009862797","name":"K\u1ef3 Nguy\u1ec5n","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p50x50\/36088398_2098417070435268_8344835093478506496_n.jpg?_nc_cat=0&_nc_eui2=AeHZ_SMMzwCSnAcCmxNc9inel5RtXwfo_jIViG0WZCmKtgei0cSBlAS8Ht1J9CeRFceKk44QoOzgQnHom8Izf4f93saKPLA_bS_WZDXWM_nkdA&oh=7601474f7fbb178e4416eb1e4aa7c0cd&oe=5BBC7BCB"},"url":"https:\/\/www.facebook.com\/kykaneki.ken"},"comment_count":36,"like_count":83,"view_count":871},{"story":{"id":"UzpfSTcxNTg3MTE2ODYwMTgxOTo4NDc5ODY5MzIwNTY5MDg=","message":{"text":"H\u1ebf l\u00f4...m\u1ecb \u0111\u00e2y! M\u1ecb \u0111\u00e3 quay tr\u1edf l\u1ea1i.  C\u00f2n ai nh\u1edb m\u1ecb ko? \ud83d\ude1c"},"url":"https:\/\/www.facebook.com\/groups\/chuviettay\/permalink\/847986932056908\/"},"author":{"id":"100002076357185","name":"Tr\u01b0\u01a1ng V\u1ef9 Huy\u1ec1n","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p50x50\/23561583_1527176030694927_8177931730557527257_n.jpg?_nc_cat=0&_nc_eui2=AeEpR44iDW4fm7H7GVHewQrKF2phJfvNbnCudHZI6033ZlWPcUGyAW2AmrDYO20FSJ2zxcLyhizFBrHW530PVn_ruKcFQu1Mqt0MsuTkLV_GBA&oh=a0b2421e2ae53727016ee1d85351024c&oe=5BAB56A8"},"url":"https:\/\/www.facebook.com\/TruongVyHuyen"},"comment_count":33,"like_count":79,"view_count":455},{"story":{"id":"UzpfSTcxNTg3MTE2ODYwMTgxOTo4NTc4NjE4NTEwNjk0MTY=","message":{"text":"N\u1ebfu b\u1ea1n ch\u01b0a kh\u00f3c bao gi\u1edd, th\u00ec \u0111\u00f4i m\u1eaft b\u1ea1n s\u1ebd kh\u00f4ng th\u1ec3 \u0111\u1eb9p."},"url":"https:\/\/www.facebook.com\/groups\/chuviettay\/permalink\/857861851069416\/"},"author":{"id":"100010874708484","name":"D\u1ea1 L\u00fd","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p50x50\/36176435_604555946583557_5574199395030663168_n.jpg?_nc_cat=0&_nc_eui2=AeHSfXpAEz-e2emEzWYcf7qsakSaK4Ja6m1WSp96gkTfki5mt4yR5b5Nnwod_W78UdkH2CEBH0_6LDsCln5Bdvdoyx290CPOTnghNV9QQBmdGA&oh=0f4fcf9214e581a52d836f8238df54ae&oe=5BA79C94"},"url":"https:\/\/www.facebook.com\/profile.php?id=100010874708484"},"comment_count":28,"like_count":69,"view_count":494},{"story":{"id":"UzpfSTcxNTg3MTE2ODYwMTgxOTo4NTIwMjMzMDE2NTMyNzE=","message":{"text":"C\u00f3 ng\u01b0\u1eddi h\u1ecfi, r\u1ed1t cu\u1ed9c trong chuy\u1ec7n t\u00ecnh c\u1ea3m, th\u1eddi \u0111i\u1ec3m n\u00e0o l\u00e0 th\u1eddi \u0111i\u1ec3m \u0111au \u0111\u1edbn nh\u1ea5t, b\u1ea5t l\u1ef1c nh\u1ea5t c\u1ee7a m\u1ed9t cu\u1ed9c t\u00ecnh.\n\nT\u00f4i n\u00f3i, th\u1eddi \u0111i\u1ec3m \u0111au \u0111\u1edbn nh\u1ea5t, nh\u01b0ng c\u0169ng b\u1ea5t l\u1ef1c nh\u1ea5t, ch\u00ednh l\u00e0 th\u1eddi \u0111i\u1ec3m. Ch\u00fang ta v\u1eabn \u1edf b\u00ean nhau, nh\u01b0ng l\u1ea1i kh\u00f4ng c\u00f2n \u0111\u1ee7 t\u1ef1 tin, \u0111\u1ee7 d\u0169ng kh\u00ed \u0111\u1ec3 bao dung \u0111\u1ed1i ph\u01b0\u01a1ng. Ch\u00ednh l\u00e0 th\u1eddi \u0111i\u1ec3m, \u1edf c\u1ea1nh nhau nh\u01b0ng l\u1ea1i kh\u00f4ng mu\u1ed1n n\u1ed7 l\u1ef1c, k\u1ec1 c\u1eadn b\u00ean nhau nh\u01b0ng l\u1ea1i kh\u00f4ng \u0111\u1ee7 s\u1ee9c c\u1ed1 g\u1eafng. \u0110\u1ed1i m\u1eb7t v\u1edbi nhau ch\u1ec9 l\u00e0 s\u1ef1 im l\u1eb7ng.\n\n\u0110\u00f3 ch\u00ednh l\u00e0 th\u1eddi \u0111i\u1ec3m ti\u1ebfp t\u1ee5c kh\u00f4ng th\u1ec3, t\u1eeb b\u1ecf kh\u00f4ng \u0111\u00e0nh.\n\nGiai \u0111o\u1ea1n ch\u00fang ta \u0111au \u0111\u1edbn nh\u1ea5t, ch\u00ednh l\u00e0 khi, \u0111i c\u1ea1nh ng\u01b0\u1eddi m\u00ecnh th\u01b0\u01a1ng, l\u1ea1i kh\u00f4ng bi\u1ebft n\u00f3i g\u00ec. Ch\u00ednh l\u00e0 l\u00fac nh\u1eefng tin nh\u1eafn h\u1ecfi han ng\u00e0y m\u1ed9t th\u01b0a th\u1edbt, nh\u1eefng cu\u1ed9c g\u1ecdi th\u00e2u \u0111\u00eam g\u1ea7n \u0111i v\u00e0o c\u00e2m l\u1eb7ng. Th\u1eddi \u0111i\u1ec3m m\u00e0, ch\u00fang ta \u0111\u1ec1u hi\u1ec3u, m\u1ecdi s\u1ef1 \u0111ang d\u1ea7n kh\u00e1c. Nh\u01b0ng ch\u00fang ta l\u1ea1i kh\u00f4ng \u0111au l\u00f2ng.\n\nT\u00f4i h\u1ecfi b\u1ea1n m\u00ecnh, th\u1eddi \u0111i\u1ec3m l\u00fac c\u1ea3 hai s\u1eafp chia tay, c\u00f3 \u0111i\u1ec1u g\u00ec m\u00e0 m\u00e0y nh\u1edb nh\u1ea5t. B\u1ea1n t\u00f4i n\u00f3i: \"Ch\u00ednh l\u00e0 l\u00fac tao n\u00f3i chia tay, anh \u1ea5y \u0111\u00e1p l\u1ea1i v\u1ebbn v\u1eb9n ba ch\u1eef \"Anh bi\u1ebft r\u1ed3i\".\n\nC\u00f3 nh\u1eefng th\u1eddi \u0111i\u1ec3m. \u0110\u00e0n \u00f4ng v\u00f4 t\u00e2m, ph\u1ee5 n\u1eef kh\u00f4ng kh\u00f3c. Ph\u1ee5 n\u1eef r\u01a1i l\u1ec7, \u0111\u00e0n \u00f4ng l\u1ea1i ch\u1eb3ng th\u1ea5y kh\u1ed5 t\u00e2m. \u0110\u1ea5y l\u00e0 khi t\u00ecnh c\u1ea3m \u0111ang d\u1ea7n \u0111i \u0111\u1ebfn h\u1eefu h\u1ea1n, giai \u0111o\u1ea1n k\u1ebft th\u00fac c\u1ee7a m\u1ed9t chuy\u1ec7n t\u00ecnh.\n\nKh\u00f4ng n\u00edu k\u00e9o, kh\u00f4ng d\u1eb1n v\u1eb7t, kh\u00f4ng \u0111au kh\u1ed5. C\u00f3 nh\u1eefng cu\u1ed9c t\u00ecnh, b\u1eaft \u0111\u1ea7u oanh li\u1ec7t, nh\u01b0ng k\u1ebft th\u00fac l\u1eb7ng thinh nh\u01b0 th\u1ec3 ch\u01b0a t\u1eebng c\u00f3 nh\u1eefng th\u00e1ng ng\u00e0y y\u00eau \u0111\u01b0\u01a1ng qu\u00ean m\u00ecnh.\n\nKhi ch\u00fang ta \u1edf c\u1ea1nh nhau, d\u00e0nh cho nhau h\u1ebft th\u1ea3y m\u1ecdi th\u1ee9, nh\u01b0ng \u0111\u1ebfn khi t\u00ecnh c\u1ea3m tr\u1edf n\u00ean nh\u1ea1t nho\u00e0, c\u0169ng \u0111\u1eebng \u0111\u1ed1i x\u1eed v\u1edbi nhau b\u1eb1ng s\u1ef1 l\u1eb7ng im t\u01b0\u1edfng nh\u01b0 v\u00f4 h\u00ecnh nh\u01b0ng th\u1ef1c ra t\u00e0n nh\u1eabn.\n\nC\u00f3 nh\u1eefng chuy\u1ec7n t\u00ecnh c\u1ea3m, k\u1ebft th\u00fac kh\u00f4ng ph\u1ea3i v\u00ec kh\u00f4ng c\u00f2n y\u00eau nhau, hay m\u1ed9t trong hai \u0111\u00e3 c\u00f3 \u0111\u1ed1i t\u01b0\u1ee3ng kh\u00e1c....\n\n\u201cT\u00ecnh c\u1ea3m bi ai nh\u1ea5t \u1edf ch\u1ed7. Anh kh\u00f4ng mu\u1ed1n c\u1ed1 g\u1eafng, em kh\u00f4ng mu\u1ed1n n\u1ed7 l\u1ef1c, t\u00ecnh c\u1ea3m sinh xa c\u00e1ch. Xa c\u00e1ch sinh b\u1ea5t l\u1ef1c. B\u1ea5t l\u1ef1c r\u1ed3i bu\u00f4ng tay\u201d.\n\nAnh kh\u00f4ng n\u00f3i, em c\u0169ng ch\u1eb3ng h\u1ecfi. \nAnh quay l\u01b0ng, em kh\u00f4ng toan b\u01b0\u1edbc. \nAnh t\u1eeb b\u1ecf, em c\u0169ng c\u01b0\u1eddi l\u1eb7ng thinh!\n#3year #1_ch\u1eb7ng_\u0111\u01b0\u1eddng \ud83d\udc94"},"url":"https:\/\/www.facebook.com\/groups\/chuviettay\/permalink\/852023301653271\/"},"author":{"id":"100011135491191","name":"Nguy\u1ec5n Th\u1ecb D\u1ecbu","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/c0.0.50.50\/p50x50\/35971266_588783328169512_1746722414273757184_n.jpg?_nc_cat=0&_nc_eui2=AeHSb8M6gTT6ZG_BKmv1a2iKK8I6L3__klEX4w9NOyPJXdDhqrpHaOBzBsHq-phuZ4MroHKGkHI2ZbN8Wmsj9qNnqLUXjrOIejkO2KcjZ0hNdA&oh=a858631c7887bb26c0f93ff8445e5e64&oe=5BA5EC82"},"url":"https:\/\/www.facebook.com\/profile.php?id=100011135491191"},"comment_count":30,"like_count":58,"view_count":621}]},"member":{"top_contributors_breakdown":[{"user":{"id":"100016238052441","name":"My Tien","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p56x56\/26230775_201156767102257_7247244169440761282_n.jpg?_nc_cat=0&_nc_eui2=AeG5_bVLi6EUrPp5QpPDKQG85BN5a3zpIibbcK0kpXXe3Kp5teG8T3_mSie_-R-I327vSWMeuBkB9MxS8wg7ZYKmcpLVLv2Bi4k4k9Fy7EI9Lg&oh=5645f6ce2b5e2d43d01abed56e53827e&oe=5BBB8C1C"},"url":"https:\/\/www.facebook.com\/mytien.nguyen.1805hoaanhtuc"},"post_count":14,"comment_count":156,"like_count":68},{"user":{"id":"100010874708484","name":"D\u1ea1 L\u00fd","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p56x56\/36176435_604555946583557_5574199395030663168_n.jpg?_nc_cat=0&_nc_eui2=AeHSfXpAEz-e2emEzWYcf7qsakSaK4Ja6m1WSp96gkTfki5mt4yR5b5Nnwod_W78UdkH2CEBH0_6LDsCln5Bdvdoyx290CPOTnghNV9QQBmdGA&oh=bfd4a49ab847a75c3125c3c60fd5d68f&oe=5BA7719B"},"url":"https:\/\/www.facebook.com\/profile.php?id=100010874708484"},"post_count":23,"comment_count":54,"like_count":26},{"user":{"id":"100023320621140","name":"\u0110\u1ea1i Nguy\u1ec5n Xu\u00e2n","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p56x56\/32579370_208628376591182_6870902321509826560_n.jpg?_nc_cat=0&_nc_eui2=AeE0P7SfSCewDBfPN5kJtQ7SuRTJq3iecV0-rx-W8O1f4pIxhNyiG-WjbcicKCqJYgruYveW9YXmmNyhMEkbGK4gNsvx7uNT79AhrawuRlKiQg&oh=2fc49ea9be3f63a90277f1adedd79ead&oe=5BE62334"},"url":"https:\/\/www.facebook.com\/profile.php?id=100023320621140"},"post_count":3,"comment_count":95,"like_count":33},{"user":{"id":"100011135491191","name":"Nguy\u1ec5n Th\u1ecb D\u1ecbu","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/c0.0.56.56\/p56x56\/35971266_588783328169512_1746722414273757184_n.jpg?_nc_cat=0&_nc_eui2=AeHSb8M6gTT6ZG_BKmv1a2iKK8I6L3__klEX4w9NOyPJXdDhqrpHaOBzBsHq-phuZ4MroHKGkHI2ZbN8Wmsj9qNnqLUXjrOIejkO2KcjZ0hNdA&oh=8844c23829aaf3ae3920f8243b56e752&oe=5BE70D48"},"url":"https:\/\/www.facebook.com\/profile.php?id=100011135491191"},"post_count":3,"comment_count":85,"like_count":74},{"user":{"id":"100004084032934","name":"Ph\u1ea1m Nguy\u1ec5n Ph\u01b0\u01a1ng Uy\u00ean","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/c0.0.56.56\/p56x56\/35924518_1445653222247465_8281954036370898944_n.jpg?_nc_cat=0&_nc_eui2=AeFNpMEff6zQyNWQ4eEH_OnZsidMeyJjMKx4knbAoYIg6x4-r1Xlx6-dzzZMQbkuMljpXBzgBJpYKRlnY4BequCPVoEi0dhg_cbfU4RLbfo2Hg&oh=5baeff5a3a59fc43e4626e69660f7004&oe=5BB3FC3A"},"url":"https:\/\/www.facebook.com\/uyen.pham.1208"},"post_count":3,"comment_count":68,"like_count":131},{"user":{"id":"100012282766516","name":"Nguy\u1ec5n Kim C\u01b0\u01a1ng","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p56x56\/26230669_453365951749493_8430542953516207316_n.jpg?_nc_cat=0&_nc_eui2=AeFUkkU1s8C8H5XCwjS8DoJQkbSfbtMXJcqP1xqghXCsETd-Z1I6s7IRrn-4OEOf8cmTCl5UAcSKjGeglorACA16YmuA4rQ-4xJbdeOiJFZicA&oh=76463b48244a82b21be9ec04ba5a0e09&oe=5B9F090D"},"url":"https:\/\/www.facebook.com\/profile.php?id=100012282766516"},"post_count":7,"comment_count":33,"like_count":26},{"user":{"id":"100008009862797","name":"K\u1ef3 Nguy\u1ec5n","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p56x56\/36088398_2098417070435268_8344835093478506496_n.jpg?_nc_cat=0&_nc_eui2=AeHZ_SMMzwCSnAcCmxNc9inel5RtXwfo_jIViG0WZCmKtgei0cSBlAS8Ht1J9CeRFceKk44QoOzgQnHom8Izf4f93saKPLA_bS_WZDXWM_nkdA&oh=ddd3d9abc2875c1b77977eca27f9668b&oe=5BA18EFE"},"url":"https:\/\/www.facebook.com\/kykaneki.ken"},"post_count":4,"comment_count":40,"like_count":28},{"user":{"id":"100004485815985","name":"Dung Pham","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p56x56\/29570783_967663166726535_7248150905783274663_n.jpg?_nc_cat=0&_nc_eui2=AeFWiJ_gCvX2DdujBDcGCpNQ5fJRWFblvfrvmSHimpTy72wxSu9WYxC5NIwdHRO8anMhqglPoaKfTWPfCQ02lhwBB3P6fvdPM1lFiudBsN7PXw&oh=25d8cc06c44fb5207b805ec3698a97fd&oe=5BABC158"},"url":"https:\/\/www.facebook.com\/profile.php?id=100004485815985"},"post_count":6,"comment_count":21,"like_count":24},{"user":{"id":"100005810732877","name":"Thuy\u1ec1n Quy\u00ean","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p56x56\/26815428_797274250476259_1146242490962607187_n.jpg?_nc_cat=0&_nc_eui2=AeHyHDoEC1RDCs7DJ5DrXuxf0ofkkg3RXNmZqWG0BmXsDLkimWFa5lOX0myjG42FY-vM8jH-nxGoxVt5NI0K_1u95Bw2sJB1BRy3M9CjFF5XfA&oh=8edccea76bee868a597da266ef46d632&oe=5BB746D9"},"url":"https:\/\/www.facebook.com\/ut.het.94"},"post_count":4,"comment_count":13,"like_count":76},{"user":{"id":"100010221364390","name":"Minh Minh D\u01b0\u01a1ng","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p56x56\/31230515_624031287947578_4843769171881754624_n.jpg?_nc_cat=0&_nc_eui2=AeFuzXfiW38qc-qIbSvMbg_51xXwPxkx0sisw3u6TSvSwEMI1B4HlcR-Gw5DKn-PghmCujikTlpIOAWy4DjCmUZsSgUk-KtL67iSrucPwI56tQ&oh=2b099f0db898e8cf728cbd32153ce46a&oe=5BA7715E"},"url":"https:\/\/www.facebook.com\/hoaithu.ung.3"},"post_count":3,"comment_count":18,"like_count":28}],"member_gender_ratio_breakdown":[{"name":"Women","value":0.70742454285085,"value_string":"70.8"},{"name":"Men","value":0.29147389292796,"value_string":"29.1"},{"name":"Custom","value":0.0011015642211941,"value_string":"0.1"}],"member_gender_age_breakdown":[{"name":"13-17","male":{"value":354,"percentage":0.077990746860542,"percentage_string":"0.078"},"female":{"value":1274,"percentage":0.28067856356026,"percentage_string":"0.281"},"custom":{"value":1,"percentage":0.00022031284423882,"percentage_string":"0"}},{"name":"18-24","male":{"value":710,"percentage":0.15642211940956,"percentage_string":"0.156"},"female":{"value":1566,"percentage":0.34500991407799,"percentage_string":"0.345"},"custom":{"value":4,"percentage":0.00088125137695528,"percentage_string":"0.001"}},{"name":"25-34","male":{"value":193,"percentage":0.042520378938092,"percentage_string":"0.043"},"female":{"value":278,"percentage":0.061246970698392,"percentage_string":"0.061"},"custom":{"value":0,"percentage":0,"percentage_string":"0"}},{"name":"35-44","male":{"value":42,"percentage":0.0092531394580304,"percentage_string":"0.009"},"female":{"value":60,"percentage":0.013218770654329,"percentage_string":"0.013"},"custom":{"value":0,"percentage":0,"percentage_string":"0"}},{"name":"45-54","male":{"value":5,"percentage":0.0011015642211941,"percentage_string":"0.001"},"female":{"value":16,"percentage":0.0035250055078211,"percentage_string":"0.004"},"custom":{"value":0,"percentage":0,"percentage_string":"0"}},{"name":"55-64","male":{"value":6,"percentage":0.0013218770654329,"percentage_string":"0.001"},"female":{"value":5,"percentage":0.0011015642211941,"percentage_string":"0.001"},"custom":{"value":0,"percentage":0,"percentage_string":"0"}},{"name":"65+","male":{"value":13,"percentage":0.0028640669751046,"percentage_string":"0.003"},"female":{"value":12,"percentage":0.0026437541308658,"percentage_string":"0.003"},"custom":{"value":0,"percentage":0,"percentage_string":"0"}}],"member_country_breakdown":[{"name":"Vietnam","value":4470},{"name":"Japan","value":18},{"name":"Taiwan","value":11},{"name":"United States","value":6},{"name":"China","value":4},{"name":"Peru","value":4},{"name":"South Korea","value":4},{"name":"Russia","value":3},{"name":"Laos","value":3},{"name":"Germany","value":2}],"member_city_breakdown":[{"name":"Ho Chi Minh City, Vietnam","value":732},{"name":"Hanoi, H\u00e0 N\u1ed9i, Vietnam","value":469},{"name":"Thanh H\u00f3a, Thanh H\u00f3a Province, Vietnam","value":128},{"name":"Hai Duong, H\u1ea3i D\u01b0\u01a1ng Province, Vietnam","value":102},{"name":"Bac Ninh, B\u1eafc Ninh Province, Vietnam","value":78},{"name":"Quang Ngai, Qu\u1ea3ng Ng\u00e3i Province, Vietnam","value":76},{"name":"Ha Tinh, H\u00e0 T\u0129nh Province, Vietnam","value":75},{"name":"Quy Nhon, B\u00ecnh \u0110\u1ecbnh Province, Vietnam","value":74},{"name":"Hue, Th\u1eeba Thi\u00ean\u2013Hu\u1ebf Province, Vietnam","value":73},{"name":"Can Tho, C\u1ea7n Th\u01a1, Vietnam","value":68}]},"growth":{"daily_member_count":[{"time":1527231600,"value":4428},{"time":1527318000,"value":4432},{"time":1527404400,"value":4432},{"time":1527490800,"value":4433},{"time":1527577200,"value":4433},{"time":1527663600,"value":4434},{"time":1527750000,"value":4436},{"time":1527836400,"value":4436},{"time":1527922800,"value":4438},{"time":1528009200,"value":4436},{"time":1528095600,"value":4445},{"time":1528182000,"value":4445},{"time":1528268400,"value":4447},{"time":1528354800,"value":4447},{"time":1528441200,"value":4455},{"time":1528527600,"value":4456},{"time":1528614000,"value":4459},{"time":1528700400,"value":4457},{"time":1528786800,"value":4462},{"time":1528873200,"value":4462},{"time":1528959600,"value":4506},{"time":1529046000,"value":4524},{"time":1529132400,"value":4524},{"time":1529218800,"value":4532},{"time":1529305200,"value":4533},{"time":1529391600,"value":4534},{"time":1529478000,"value":4540},{"time":1529564400,"value":4541},{"time":1529650800,"value":4544},{"time":1529737200,"value":4546}],"total_member_count":4546,"total_member_delta":0.026648599819332,"join_request_approve_aggregated_count":160,"join_request_reject_aggregated_count":2,"join_request_block_aggregated_count":0,"pending_member_current_count":1,"daily_member_join_source_breakdown":[{"name":"By Invitation","value":27},{"name":"Search","value":39},{"name":"Linked Group","value":0},{"name":"Organic","value":79},{"name":"Linked Page","value":0},{"name":"Facebook Suggestions","value":1}]},"highlights":{"highlights":{"new_member_count_highlight":114,"new_member_delta_highlight":0.96551724137931,"activity":8443,"activity_delta":-0.10342996708081,"top_contributors":[{"id":"100016238052441","name":"My Tien","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p32x32\/26230775_201156767102257_7247244169440761282_n.jpg?_nc_cat=0&_nc_eui2=AeG5_bVLi6EUrPp5QpPDKQG85BN5a3zpIibbcK0kpXXe3Kp5teG8T3_mSie_-R-I327vSWMeuBkB9MxS8wg7ZYKmcpLVLv2Bi4k4k9Fy7EI9Lg&oh=9ec2233d2b5f74067de35062f0196b8e&oe=5BAC181C"}},{"id":"100010874708484","name":"D\u1ea1 L\u00fd","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p32x32\/36176435_604555946583557_5574199395030663168_n.jpg?_nc_cat=0&_nc_eui2=AeHSfXpAEz-e2emEzWYcf7qsakSaK4Ja6m1WSp96gkTfki5mt4yR5b5Nnwod_W78UdkH2CEBH0_6LDsCln5Bdvdoyx290CPOTnghNV9QQBmdGA&oh=cb0c5cc10de70fe31c6d492479356bf8&oe=5BAB5C9B"}},{"id":"100023320621140","name":"\u0110\u1ea1i Nguy\u1ec5n Xu\u00e2n","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p32x32\/32579370_208628376591182_6870902321509826560_n.jpg?_nc_cat=0&_nc_eui2=AeE0P7SfSCewDBfPN5kJtQ7SuRTJq3iecV0-rx-W8O1f4pIxhNyiG-WjbcicKCqJYgruYveW9YXmmNyhMEkbGK4gNsvx7uNT79AhrawuRlKiQg&oh=68cb5183d4590f2848bedb1ffef85617&oe=5BAD7D34"}},{"id":"100011135491191","name":"Nguy\u1ec5n Th\u1ecb D\u1ecbu","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/c0.0.32.32\/p32x32\/35971266_588783328169512_1746722414273757184_n.jpg?_nc_cat=0&_nc_eui2=AeHSb8M6gTT6ZG_BKmv1a2iKK8I6L3__klEX4w9NOyPJXdDhqrpHaOBzBsHq-phuZ4MroHKGkHI2ZbN8Wmsj9qNnqLUXjrOIejkO2KcjZ0hNdA&oh=f4c20aa13c58a0b6940561b5548a2fa8&oe=5BE676A6"}},{"id":"100004084032934","name":"Ph\u1ea1m Nguy\u1ec5n Ph\u01b0\u01a1ng Uy\u00ean","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/c0.0.32.32\/p32x32\/35924518_1445653222247465_8281954036370898944_n.jpg?_nc_cat=0&_nc_eui2=AeFNpMEff6zQyNWQ4eEH_OnZsidMeyJjMKx4knbAoYIg6x4-r1Xlx6-dzzZMQbkuMljpXBzgBJpYKRlnY4BequCPVoEi0dhg_cbfU4RLbfo2Hg&oh=04f5d4ad5f666a11e6b98ab21594591b&oe=5BAAD37F"}},{"id":"100012282766516","name":"Nguy\u1ec5n Kim C\u01b0\u01a1ng","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p32x32\/26230669_453365951749493_8430542953516207316_n.jpg?_nc_cat=0&_nc_eui2=AeFUkkU1s8C8H5XCwjS8DoJQkbSfbtMXJcqP1xqghXCsETd-Z1I6s7IRrn-4OEOf8cmTCl5UAcSKjGeglorACA16YmuA4rQ-4xJbdeOiJFZicA&oh=18336c25dfeaccb22a3bc1fd0dd8bee3&oe=5BA3650D"}},{"id":"100008009862797","name":"K\u1ef3 Nguy\u1ec5n","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p32x32\/36088398_2098417070435268_8344835093478506496_n.jpg?_nc_cat=0&_nc_eui2=AeHZ_SMMzwCSnAcCmxNc9inel5RtXwfo_jIViG0WZCmKtgei0cSBlAS8Ht1J9CeRFceKk44QoOzgQnHom8Izf4f93saKPLA_bS_WZDXWM_nkdA&oh=3e18b67ff924d7517ce292ee627f46d5&oe=5BB6040B"}},{"id":"100004485815985","name":"Dung Pham","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p32x32\/29570783_967663166726535_7248150905783274663_n.jpg?_nc_cat=0&_nc_eui2=AeFWiJ_gCvX2DdujBDcGCpNQ5fJRWFblvfrvmSHimpTy72wxSu9WYxC5NIwdHRO8anMhqglPoaKfTWPfCQ02lhwBB3P6fvdPM1lFiudBsN7PXw&oh=9c0afb31a34546546308fd4032b4786a&oe=5BEA0658"}},{"id":"100005810732877","name":"Thuy\u1ec1n Quy\u00ean","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p32x32\/26815428_797274250476259_1146242490962607187_n.jpg?_nc_cat=0&_nc_eui2=AeHyHDoEC1RDCs7DJ5DrXuxf0ofkkg3RXNmZqWG0BmXsDLkimWFa5lOX0myjG42FY-vM8jH-nxGoxVt5NI0K_1u95Bw2sJB1BRy3M9CjFF5XfA&oh=50c99c0d4adc78a4d423f9bcbeb2dedf&oe=5BB326D9"}},{"id":"100010221364390","name":"Minh Minh D\u01b0\u01a1ng","profile_picture":{"uri":"https:\/\/scontent-sin6-1.xx.fbcdn.net\/v\/t1.0-1\/p32x32\/31230515_624031287947578_4843769171881754624_n.jpg?_nc_cat=0&_nc_eui2=AeFuzXfiW38qc-qIbSvMbg_51xXwPxkx0sisw3u6TSvSwEMI1B4HlcR-Gw5DKn-PghmCujikTlpIOAWy4DjCmUZsSgUk-KtL67iSrucPwI56tQ&oh=e7f123e2fdbbf299cd2a94ae79ae7425&oe=5BADCC5E"}}],"completions":0}},"last_update":1529827732}
+{
+  "group_name": "Cộng đồng Chữ Viết Tay ✅",
+  "pending_posts": 0,
+  "engagement": {
+    "daily_post_count": [
+      {
+        "time": 1527231600,
+        "value": 4
+      },
+      {
+        "time": 1527318000,
+        "value": 11
+      },
+      {
+        "time": 1527404400,
+        "value": 6
+      },
+      {
+        "time": 1527490800,
+        "value": 3
+      },
+      {
+        "time": 1527577200,
+        "value": 10
+      },
+      {
+        "time": 1527663600,
+        "value": 6
+      },
+      {
+        "time": 1527750000,
+        "value": 10
+      },
+      {
+        "time": 1527836400,
+        "value": 7
+      },
+      {
+        "time": 1527922800,
+        "value": 2
+      },
+      {
+        "time": 1528009200,
+        "value": 4
+      },
+      {
+        "time": 1528095600,
+        "value": 6
+      },
+      {
+        "time": 1528182000,
+        "value": 1
+      },
+      {
+        "time": 1528268400,
+        "value": 3
+      },
+      {
+        "time": 1528354800,
+        "value": 2
+      },
+      {
+        "time": 1528441200,
+        "value": 7
+      },
+      {
+        "time": 1528527600,
+        "value": 5
+      },
+      {
+        "time": 1528614000,
+        "value": 1
+      },
+      {
+        "time": 1528700400,
+        "value": 9
+      },
+      {
+        "time": 1528786800,
+        "value": 5
+      },
+      {
+        "time": 1528873200,
+        "value": 7
+      },
+      {
+        "time": 1528959600,
+        "value": 5
+      },
+      {
+        "time": 1529046000,
+        "value": 8
+      },
+      {
+        "time": 1529132400,
+        "value": 7
+      },
+      {
+        "time": 1529218800,
+        "value": 0
+      },
+      {
+        "time": 1529305200,
+        "value": 4
+      },
+      {
+        "time": 1529391600,
+        "value": 9
+      },
+      {
+        "time": 1529478000,
+        "value": 6
+      },
+      {
+        "time": 1529564400,
+        "value": 7
+      },
+      {
+        "time": 1529650800,
+        "value": 1
+      },
+      {
+        "time": 1529737200,
+        "value": 17
+      }
+    ],
+    "total_post_count": 173,
+    "post_delta": -0.24782608695652,
+    "daily_comment_count": [
+      {
+        "time": 1527231600,
+        "value": 15
+      },
+      {
+        "time": 1527318000,
+        "value": 62
+      },
+      {
+        "time": 1527404400,
+        "value": 20
+      },
+      {
+        "time": 1527490800,
+        "value": 14
+      },
+      {
+        "time": 1527577200,
+        "value": 68
+      },
+      {
+        "time": 1527663600,
+        "value": 58
+      },
+      {
+        "time": 1527750000,
+        "value": 64
+      },
+      {
+        "time": 1527836400,
+        "value": 156
+      },
+      {
+        "time": 1527922800,
+        "value": 59
+      },
+      {
+        "time": 1528009200,
+        "value": 21
+      },
+      {
+        "time": 1528095600,
+        "value": 46
+      },
+      {
+        "time": 1528182000,
+        "value": 0
+      },
+      {
+        "time": 1528268400,
+        "value": 0
+      },
+      {
+        "time": 1528354800,
+        "value": 8
+      },
+      {
+        "time": 1528441200,
+        "value": 47
+      },
+      {
+        "time": 1528527600,
+        "value": 31
+      },
+      {
+        "time": 1528614000,
+        "value": 22
+      },
+      {
+        "time": 1528700400,
+        "value": 48
+      },
+      {
+        "time": 1528786800,
+        "value": 26
+      },
+      {
+        "time": 1528873200,
+        "value": 73
+      },
+      {
+        "time": 1528959600,
+        "value": 72
+      },
+      {
+        "time": 1529046000,
+        "value": 67
+      },
+      {
+        "time": 1529132400,
+        "value": 42
+      },
+      {
+        "time": 1529218800,
+        "value": 15
+      },
+      {
+        "time": 1529305200,
+        "value": 21
+      },
+      {
+        "time": 1529391600,
+        "value": 62
+      },
+      {
+        "time": 1529478000,
+        "value": 48
+      },
+      {
+        "time": 1529564400,
+        "value": 92
+      },
+      {
+        "time": 1529650800,
+        "value": 21
+      },
+      {
+        "time": 1529737200,
+        "value": 330
+      }
+    ],
+    "total_comment_count": 1608,
+    "comment_delta": -0.076392877656519,
+    "daily_like_count": [
+      {
+        "time": 1527231600,
+        "value": 168
+      },
+      {
+        "time": 1527318000,
+        "value": 442
+      },
+      {
+        "time": 1527404400,
+        "value": 261
+      },
+      {
+        "time": 1527490800,
+        "value": 130
+      },
+      {
+        "time": 1527577200,
+        "value": 344
+      },
+      {
+        "time": 1527663600,
+        "value": 183
+      },
+      {
+        "time": 1527750000,
+        "value": 288
+      },
+      {
+        "time": 1527836400,
+        "value": 333
+      },
+      {
+        "time": 1527922800,
+        "value": 109
+      },
+      {
+        "time": 1528009200,
+        "value": 106
+      },
+      {
+        "time": 1528095600,
+        "value": 232
+      },
+      {
+        "time": 1528182000,
+        "value": 60
+      },
+      {
+        "time": 1528268400,
+        "value": 75
+      },
+      {
+        "time": 1528354800,
+        "value": 113
+      },
+      {
+        "time": 1528441200,
+        "value": 178
+      },
+      {
+        "time": 1528527600,
+        "value": 285
+      },
+      {
+        "time": 1528614000,
+        "value": 77
+      },
+      {
+        "time": 1528700400,
+        "value": 131
+      },
+      {
+        "time": 1528786800,
+        "value": 137
+      },
+      {
+        "time": 1528873200,
+        "value": 212
+      },
+      {
+        "time": 1528959600,
+        "value": 260
+      },
+      {
+        "time": 1529046000,
+        "value": 341
+      },
+      {
+        "time": 1529132400,
+        "value": 351
+      },
+      {
+        "time": 1529218800,
+        "value": 95
+      },
+      {
+        "time": 1529305200,
+        "value": 89
+      },
+      {
+        "time": 1529391600,
+        "value": 304
+      },
+      {
+        "time": 1529478000,
+        "value": 299
+      },
+      {
+        "time": 1529564400,
+        "value": 412
+      },
+      {
+        "time": 1529650800,
+        "value": 218
+      },
+      {
+        "time": 1529737200,
+        "value": 1131
+      }
+    ],
+    "total_like_count": 7364,
+    "like_delta": -0.24355418592707,
+    "daily_active_member_count": [
+      {
+        "time": 1527231600,
+        "value": 878
+      },
+      {
+        "time": 1527318000,
+        "value": 1290
+      },
+      {
+        "time": 1527404400,
+        "value": 928
+      },
+      {
+        "time": 1527490800,
+        "value": 895
+      },
+      {
+        "time": 1527577200,
+        "value": 1288
+      },
+      {
+        "time": 1527663600,
+        "value": 1294
+      },
+      {
+        "time": 1527750000,
+        "value": 1134
+      },
+      {
+        "time": 1527836400,
+        "value": 1520
+      },
+      {
+        "time": 1527922800,
+        "value": 792
+      },
+      {
+        "time": 1528009200,
+        "value": 592
+      },
+      {
+        "time": 1528095600,
+        "value": 795
+      },
+      {
+        "time": 1528182000,
+        "value": 542
+      },
+      {
+        "time": 1528268400,
+        "value": 529
+      },
+      {
+        "time": 1528354800,
+        "value": 803
+      },
+      {
+        "time": 1528441200,
+        "value": 743
+      },
+      {
+        "time": 1528527600,
+        "value": 992
+      },
+      {
+        "time": 1528614000,
+        "value": 424
+      },
+      {
+        "time": 1528700400,
+        "value": 707
+      },
+      {
+        "time": 1528786800,
+        "value": 936
+      },
+      {
+        "time": 1528873200,
+        "value": 937
+      },
+      {
+        "time": 1528959600,
+        "value": 980
+      },
+      {
+        "time": 1529046000,
+        "value": 1056
+      },
+      {
+        "time": 1529132400,
+        "value": 1182
+      },
+      {
+        "time": 1529218800,
+        "value": 642
+      },
+      {
+        "time": 1529305200,
+        "value": 630
+      },
+      {
+        "time": 1529391600,
+        "value": 958
+      },
+      {
+        "time": 1529478000,
+        "value": 1316
+      },
+      {
+        "time": 1529564400,
+        "value": 1242
+      },
+      {
+        "time": 1529650800,
+        "value": 1194
+      },
+      {
+        "time": 1529737200,
+        "value": 1980
+      }
+    ],
+    "active_member_count": 2974,
+    "weekly_activity_breakdown": [
+      {
+        "value": 189,
+        "name": "Monday"
+      },
+      {
+        "value": 222,
+        "name": "Tuesday"
+      },
+      {
+        "value": 231,
+        "name": "Wednesday"
+      },
+      {
+        "value": 290,
+        "name": "Thursday"
+      },
+      {
+        "value": 339,
+        "name": "Friday"
+      },
+      {
+        "value": 384,
+        "name": "Saturday"
+      },
+      {
+        "value": 202,
+        "name": "Sunday"
+      }
+    ],
+    "hourly_activity_breakdown": [
+      {
+        "name": "Monday",
+        "results": [
+          {
+            "name": "12 AM",
+            "value": 3,
+            "value_string": "3"
+          },
+          {
+            "name": "1 AM",
+            "value": 2,
+            "value_string": "2"
+          },
+          {
+            "name": "2 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "3 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "4 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "5 AM",
+            "value": 2,
+            "value_string": "2"
+          },
+          {
+            "name": "6 AM",
+            "value": 6,
+            "value_string": "6"
+          },
+          {
+            "name": "7 AM",
+            "value": 5,
+            "value_string": "5"
+          },
+          {
+            "name": "8 AM",
+            "value": 9,
+            "value_string": "9"
+          },
+          {
+            "name": "9 AM",
+            "value": 6,
+            "value_string": "6"
+          },
+          {
+            "name": "10 AM",
+            "value": 3,
+            "value_string": "3"
+          },
+          {
+            "name": "11 AM",
+            "value": 6,
+            "value_string": "6"
+          },
+          {
+            "name": "12 PM",
+            "value": 7,
+            "value_string": "7"
+          },
+          {
+            "name": "1 PM",
+            "value": 12,
+            "value_string": "12"
+          },
+          {
+            "name": "2 PM",
+            "value": 2,
+            "value_string": "2"
+          },
+          {
+            "name": "3 PM",
+            "value": 4,
+            "value_string": "4"
+          },
+          {
+            "name": "4 PM",
+            "value": 8,
+            "value_string": "8"
+          },
+          {
+            "name": "5 PM",
+            "value": 8,
+            "value_string": "8"
+          },
+          {
+            "name": "6 PM",
+            "value": 12,
+            "value_string": "12"
+          },
+          {
+            "name": "7 PM",
+            "value": 32,
+            "value_string": "32"
+          },
+          {
+            "name": "8 PM",
+            "value": 16,
+            "value_string": "16"
+          },
+          {
+            "name": "9 PM",
+            "value": 20,
+            "value_string": "20"
+          },
+          {
+            "name": "10 PM",
+            "value": 22,
+            "value_string": "22"
+          },
+          {
+            "name": "11 PM",
+            "value": 3,
+            "value_string": "3"
+          }
+        ]
+      },
+      {
+        "name": "Tuesday",
+        "results": [
+          {
+            "name": "12 AM",
+            "value": 2,
+            "value_string": "2"
+          },
+          {
+            "name": "1 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "2 AM",
+            "value": 0,
+            "value_string": "0"
+          },
+          {
+            "name": "3 AM",
+            "value": 0,
+            "value_string": "0"
+          },
+          {
+            "name": "4 AM",
+            "value": 0,
+            "value_string": "0"
+          },
+          {
+            "name": "5 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "6 AM",
+            "value": 4,
+            "value_string": "4"
+          },
+          {
+            "name": "7 AM",
+            "value": 4,
+            "value_string": "4"
+          },
+          {
+            "name": "8 AM",
+            "value": 15,
+            "value_string": "15"
+          },
+          {
+            "name": "9 AM",
+            "value": 4,
+            "value_string": "4"
+          },
+          {
+            "name": "10 AM",
+            "value": 10,
+            "value_string": "10"
+          },
+          {
+            "name": "11 AM",
+            "value": 8,
+            "value_string": "8"
+          },
+          {
+            "name": "12 PM",
+            "value": 8,
+            "value_string": "8"
+          },
+          {
+            "name": "1 PM",
+            "value": 3,
+            "value_string": "3"
+          },
+          {
+            "name": "2 PM",
+            "value": 4,
+            "value_string": "4"
+          },
+          {
+            "name": "3 PM",
+            "value": 6,
+            "value_string": "6"
+          },
+          {
+            "name": "4 PM",
+            "value": 8,
+            "value_string": "8"
+          },
+          {
+            "name": "5 PM",
+            "value": 13,
+            "value_string": "13"
+          },
+          {
+            "name": "6 PM",
+            "value": 39,
+            "value_string": "39"
+          },
+          {
+            "name": "7 PM",
+            "value": 31,
+            "value_string": "31"
+          },
+          {
+            "name": "8 PM",
+            "value": 22,
+            "value_string": "22"
+          },
+          {
+            "name": "9 PM",
+            "value": 18,
+            "value_string": "18"
+          },
+          {
+            "name": "10 PM",
+            "value": 13,
+            "value_string": "13"
+          },
+          {
+            "name": "11 PM",
+            "value": 12,
+            "value_string": "12"
+          }
+        ]
+      },
+      {
+        "name": "Wednesday",
+        "results": [
+          {
+            "name": "12 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "1 AM",
+            "value": 2,
+            "value_string": "2"
+          },
+          {
+            "name": "2 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "3 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "4 AM",
+            "value": 0,
+            "value_string": "0"
+          },
+          {
+            "name": "5 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "6 AM",
+            "value": 3,
+            "value_string": "3"
+          },
+          {
+            "name": "7 AM",
+            "value": 12,
+            "value_string": "12"
+          },
+          {
+            "name": "8 AM",
+            "value": 10,
+            "value_string": "10"
+          },
+          {
+            "name": "9 AM",
+            "value": 8,
+            "value_string": "8"
+          },
+          {
+            "name": "10 AM",
+            "value": 7,
+            "value_string": "7"
+          },
+          {
+            "name": "11 AM",
+            "value": 17,
+            "value_string": "17"
+          },
+          {
+            "name": "12 PM",
+            "value": 17,
+            "value_string": "17"
+          },
+          {
+            "name": "1 PM",
+            "value": 14,
+            "value_string": "14"
+          },
+          {
+            "name": "2 PM",
+            "value": 9,
+            "value_string": "9"
+          },
+          {
+            "name": "3 PM",
+            "value": 19,
+            "value_string": "19"
+          },
+          {
+            "name": "4 PM",
+            "value": 7,
+            "value_string": "7"
+          },
+          {
+            "name": "5 PM",
+            "value": 14,
+            "value_string": "14"
+          },
+          {
+            "name": "6 PM",
+            "value": 10,
+            "value_string": "10"
+          },
+          {
+            "name": "7 PM",
+            "value": 5,
+            "value_string": "5"
+          },
+          {
+            "name": "8 PM",
+            "value": 5,
+            "value_string": "5"
+          },
+          {
+            "name": "9 PM",
+            "value": 26,
+            "value_string": "26"
+          },
+          {
+            "name": "10 PM",
+            "value": 26,
+            "value_string": "26"
+          },
+          {
+            "name": "11 PM",
+            "value": 18,
+            "value_string": "18"
+          }
+        ]
+      },
+      {
+        "name": "Thursday",
+        "results": [
+          {
+            "name": "12 AM",
+            "value": 6,
+            "value_string": "6"
+          },
+          {
+            "name": "1 AM",
+            "value": 2,
+            "value_string": "2"
+          },
+          {
+            "name": "2 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "3 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "4 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "5 AM",
+            "value": 5,
+            "value_string": "5"
+          },
+          {
+            "name": "6 AM",
+            "value": 8,
+            "value_string": "8"
+          },
+          {
+            "name": "7 AM",
+            "value": 6,
+            "value_string": "6"
+          },
+          {
+            "name": "8 AM",
+            "value": 5,
+            "value_string": "5"
+          },
+          {
+            "name": "9 AM",
+            "value": 13,
+            "value_string": "13"
+          },
+          {
+            "name": "10 AM",
+            "value": 7,
+            "value_string": "7"
+          },
+          {
+            "name": "11 AM",
+            "value": 15,
+            "value_string": "15"
+          },
+          {
+            "name": "12 PM",
+            "value": 19,
+            "value_string": "19"
+          },
+          {
+            "name": "1 PM",
+            "value": 15,
+            "value_string": "15"
+          },
+          {
+            "name": "2 PM",
+            "value": 7,
+            "value_string": "7"
+          },
+          {
+            "name": "3 PM",
+            "value": 21,
+            "value_string": "21"
+          },
+          {
+            "name": "4 PM",
+            "value": 10,
+            "value_string": "10"
+          },
+          {
+            "name": "5 PM",
+            "value": 13,
+            "value_string": "13"
+          },
+          {
+            "name": "6 PM",
+            "value": 13,
+            "value_string": "13"
+          },
+          {
+            "name": "7 PM",
+            "value": 23,
+            "value_string": "23"
+          },
+          {
+            "name": "8 PM",
+            "value": 20,
+            "value_string": "20"
+          },
+          {
+            "name": "9 PM",
+            "value": 41,
+            "value_string": "41"
+          },
+          {
+            "name": "10 PM",
+            "value": 23,
+            "value_string": "23"
+          },
+          {
+            "name": "11 PM",
+            "value": 16,
+            "value_string": "16"
+          }
+        ]
+      },
+      {
+        "name": "Friday",
+        "results": [
+          {
+            "name": "12 AM",
+            "value": 7,
+            "value_string": "7"
+          },
+          {
+            "name": "1 AM",
+            "value": 2,
+            "value_string": "2"
+          },
+          {
+            "name": "2 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "3 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "4 AM",
+            "value": 2,
+            "value_string": "2"
+          },
+          {
+            "name": "5 AM",
+            "value": 5,
+            "value_string": "5"
+          },
+          {
+            "name": "6 AM",
+            "value": 9,
+            "value_string": "9"
+          },
+          {
+            "name": "7 AM",
+            "value": 14,
+            "value_string": "14"
+          },
+          {
+            "name": "8 AM",
+            "value": 11,
+            "value_string": "11"
+          },
+          {
+            "name": "9 AM",
+            "value": 8,
+            "value_string": "8"
+          },
+          {
+            "name": "10 AM",
+            "value": 14,
+            "value_string": "14"
+          },
+          {
+            "name": "11 AM",
+            "value": 40,
+            "value_string": "40"
+          },
+          {
+            "name": "12 PM",
+            "value": 22,
+            "value_string": "22"
+          },
+          {
+            "name": "1 PM",
+            "value": 14,
+            "value_string": "14"
+          },
+          {
+            "name": "2 PM",
+            "value": 10,
+            "value_string": "10"
+          },
+          {
+            "name": "3 PM",
+            "value": 7,
+            "value_string": "7"
+          },
+          {
+            "name": "4 PM",
+            "value": 5,
+            "value_string": "5"
+          },
+          {
+            "name": "5 PM",
+            "value": 7,
+            "value_string": "7"
+          },
+          {
+            "name": "6 PM",
+            "value": 20,
+            "value_string": "20"
+          },
+          {
+            "name": "7 PM",
+            "value": 29,
+            "value_string": "29"
+          },
+          {
+            "name": "8 PM",
+            "value": 30,
+            "value_string": "30"
+          },
+          {
+            "name": "9 PM",
+            "value": 28,
+            "value_string": "28"
+          },
+          {
+            "name": "10 PM",
+            "value": 32,
+            "value_string": "32"
+          },
+          {
+            "name": "11 PM",
+            "value": 27,
+            "value_string": "27"
+          }
+        ]
+      },
+      {
+        "name": "Saturday",
+        "results": [
+          {
+            "name": "12 AM",
+            "value": 5,
+            "value_string": "5"
+          },
+          {
+            "name": "1 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "2 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "3 AM",
+            "value": 0,
+            "value_string": "0"
+          },
+          {
+            "name": "4 AM",
+            "value": 1,
+            "value_string": "1"
+          },
+          {
+            "name": "5 AM",
+            "value": 5,
+            "value_string": "5"
+          },
+          {
+            "name": "6 AM",
+            "value": 10,
+            "value_string": "10"
+          },
+          {
+            "name": "7 AM",
+            "value": 9,
+            "value_string": "9"
+          },
+          {
+            "name": "8 AM",
+            "value": 10,
+            "value_string": "10"
+          },
+          {
+            "name": "9 AM",
+            "value": 14,
+            "value_string": "14"
+          },
+          {
+            "name": "10 AM",
+            "value": 13,
+            "value_string": "13"
+          },
+          {
+            "name": "11 AM",
+            "value": 17,
+            "value_string": "17"
+          },
+          {
+            "name": "12 PM",
+            "value": 22,
+            "value_string": "22"
+          },
+          {
+            "name": "1 PM",
+            "value": 33,
+            "value_string": "33"
+          },
+          {
+            "name": "2 PM",
+            "value": 12,
+            "value_string": "12"
+          },
+          {
+            "name": "3 PM",
+            "value": 23,
+            "value_string": "23"
+          },
+          {
+            "name": "4 PM",
+            "value": 19,
+            "value_string": "19"
+          },
+          {
+            "name": "5 PM",
+            "value": 32,
+            "value_string": "32"
+          },
+          {
+            "name": "6 PM",
+            "value": 17,
+            "value_string": "17"
+          },
+          {
+            "name": "7 PM",
+            "value": 25,
+            "value_string": "25"
+          },
+          {
+            "name": "8 PM",
+            "value": 30,
+            "value_string": "30"
+          },
+          {
+            "name": "9 PM",
+            "value": 45,
+            "value_string": "45"
+          },
+          {
+            "name": "10 PM",
+            "value": 21,
+            "value_string": "21"
+          },
+          {
+            "name": "11 PM",
+            "value": 20,
+            "value_string": "20"
+          }
+        ]
+      },
+      {
+        "name": "Sunday",
+        "results": [
+          {
+            "name": "12 AM",
+            "value": 12,
+            "value_string": "12"
+          },
+          {
+            "name": "1 AM",
+            "value": 2,
+            "value_string": "2"
+          },
+          {
+            "name": "2 AM",
+            "value": 0,
+            "value_string": "0"
+          },
+          {
+            "name": "3 AM",
+            "value": 2,
+            "value_string": "2"
+          },
+          {
+            "name": "4 AM",
+            "value": 4,
+            "value_string": "4"
+          },
+          {
+            "name": "5 AM",
+            "value": 4,
+            "value_string": "4"
+          },
+          {
+            "name": "6 AM",
+            "value": 14,
+            "value_string": "14"
+          },
+          {
+            "name": "7 AM",
+            "value": 9,
+            "value_string": "9"
+          },
+          {
+            "name": "8 AM",
+            "value": 12,
+            "value_string": "12"
+          },
+          {
+            "name": "9 AM",
+            "value": 14,
+            "value_string": "14"
+          },
+          {
+            "name": "10 AM",
+            "value": 5,
+            "value_string": "5"
+          },
+          {
+            "name": "11 AM",
+            "value": 11,
+            "value_string": "11"
+          },
+          {
+            "name": "12 PM",
+            "value": 11,
+            "value_string": "11"
+          },
+          {
+            "name": "1 PM",
+            "value": 10,
+            "value_string": "10"
+          },
+          {
+            "name": "2 PM",
+            "value": 8,
+            "value_string": "8"
+          },
+          {
+            "name": "3 PM",
+            "value": 6,
+            "value_string": "6"
+          },
+          {
+            "name": "4 PM",
+            "value": 9,
+            "value_string": "9"
+          },
+          {
+            "name": "5 PM",
+            "value": 7,
+            "value_string": "7"
+          },
+          {
+            "name": "6 PM",
+            "value": 22,
+            "value_string": "22"
+          },
+          {
+            "name": "7 PM",
+            "value": 10,
+            "value_string": "10"
+          },
+          {
+            "name": "8 PM",
+            "value": 3,
+            "value_string": "3"
+          },
+          {
+            "name": "9 PM",
+            "value": 7,
+            "value_string": "7"
+          },
+          {
+            "name": "10 PM",
+            "value": 17,
+            "value_string": "17"
+          },
+          {
+            "name": "11 PM",
+            "value": 7,
+            "value_string": "7"
+          }
+        ]
+      }
+    ],
+    "top_posts_breakdown": [
+      {
+        "story": {
+          "id": "UzpfSTcxNTg3MTE2ODYwMTgxOTo4NDQyOTMxNjkwOTI5NTE=",
+          "message": {
+            "text": "Mình chỉ là 1 người viết dạo thôi. Hihi :-)"
+          },
+          "url": "https://www.facebook.com/groups/chuviettay/permalink/844293169092951/"
+        },
+        "author": {
+          "id": "100016238052441",
+          "name": "My Tien",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p50x50/26230775_201156767102257_7247244169440761282_n.jpg?_nc_cat=0&_nc_eui2=AeG5_bVLi6EUrPp5QpPDKQG85BN5a3zpIibbcK0kpXXe3Kp5teG8T3_mSie_-R-I327vSWMeuBkB9MxS8wg7ZYKmcpLVLv2Bi4k4k9Fy7EI9Lg&oh=85b03b39d57aef3b258f4821ae4e106e&oe=5BAFB813"
+          },
+          "url": "https://www.facebook.com/mytien.nguyen.1805hoaanhtuc"
+        },
+        "comment_count": 220,
+        "like_count": 128,
+        "view_count": 1569
+      },
+      {
+        "story": {
+          "id": "UzpfSTcxNTg3MTE2ODYwMTgxOTo4NDMxNDc2NjU4NzQxNjg=",
+          "message": {
+            "text": "Tặng chữ 🌷🌷🌷"
+          },
+          "url": "https://www.facebook.com/groups/chuviettay/permalink/843147665874168/"
+        },
+        "author": {
+          "id": "100004288663520",
+          "name": "Hong Van",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p50x50/23755310_929559530530327_1491977633091380075_n.jpg?_nc_cat=0&_nc_eui2=AeGCLghQnIAflhrNCUSbnVj6hJ6WXehrrKImIYMNGGkijbYaksnL1fwHArsb5pMii1Am_Lziktz5j0S4mpaVCLpc4JAgARHuCP5hT5WYnhCgwg&oh=6e2fca8992040b883c98daa249782f7b&oe=5BB67D0E"
+          },
+          "url": null
+        },
+        "comment_count": 53,
+        "like_count": 91,
+        "view_count": 1559
+      },
+      {
+        "story": {
+          "id": "UzpfSTcxNTg3MTE2ODYwMTgxOTo4NTAxNzI2MzE4MzgzMzg=",
+          "message": {
+            "text": "Ngày còn đi học, cô giáo gọi tên anh, cả lớp quay sang nhìn em.\n\nSau này ra Trường, thậm chí khi đã chia tay nhau đến lớp không có mặt anh mọi người cũng quay sang nhìn em 😌\n\nRa nét cô quán nét cũng hỏi... Sao dao này hay Đi 1 mình vậy  :) anh đâu :)\n\nĐi trà sữa 1 mình chị chủ quán cũng hỏi ny đâu :) sạo Đi 1 mình 😊 sắp thi rồi nhỉ... Hihi 😊 2 đứa cũng chả còn nhiều thơi gian bên cạnh nhau nữa :)\n\nGặp các bác,  các chú anh :)  m.n đều nói bảo yêu thằng cháu chú nhỉ, dao này 2 đứa thế nào...  Vv :)\n\nMấy đứa bạn và thầy cô đều hỏi em 1 câu mày với *** dào này thế nào rồi  😊 buồn vậy  😊\nEm cũng chỉ cười và k đáp lại  😊\n\nSau này, 😊thấy anh ngoài đường, người ta cũng chụp ảnh lại gửi cho em.\n\nMọi vấn đề của anh, tất cả đều cho rằng sẽ liên quan đến em. Nhưng sai rồi, em nào đâu có biết gì? 😑😑😑\n\nCho nên, lễ cưới của anh, tốt nhất đừng mời em. Em không đến, chắc chắn sẽ không đến. Cô dâu của anh đứng đó, mà mọi người cứ quay sang nhìn em thì kỳ quá. 😊😊😊\n\nEm và anh sớm đã chẳng còn là gì, chúng ta đều biết, nhưng thế giới này là vậy. Đâu phải cứ chia tay là xong chuyện? Có thể anh sớm đã quên, em cũng không muốn nhớ. Nhưng người khác thì không. Tình yêu của chúng ta vẫn ở đó, ít nhất là trong tâm trí của những người biết anh, biết em, biết những tháng ngày chúng ta cùng đi trên một con đường...\n#Đừngainhắcvềanhấy \n#3year #1chặngđường  💔"
+          },
+          "url": "https://www.facebook.com/groups/chuviettay/permalink/850172631838338/"
+        },
+        "author": {
+          "id": "100011135491191",
+          "name": "Nguyễn Thị Dịu",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/c0.0.50.50/p50x50/35971266_588783328169512_1746722414273757184_n.jpg?_nc_cat=0&_nc_eui2=AeHSb8M6gTT6ZG_BKmv1a2iKK8I6L3__klEX4w9NOyPJXdDhqrpHaOBzBsHq-phuZ4MroHKGkHI2ZbN8Wmsj9qNnqLUXjrOIejkO2KcjZ0hNdA&oh=a858631c7887bb26c0f93ff8445e5e64&oe=5BA5EC82"
+          },
+          "url": "https://www.facebook.com/profile.php?id=100011135491191"
+        },
+        "comment_count": 48,
+        "like_count": 76,
+        "view_count": 739
+      },
+      {
+        "story": {
+          "id": "UzpfSTcxNTg3MTE2ODYwMTgxOTo4NTUwNTIyNTgwMTcwNDI=",
+          "message": {
+            "text": "Luyện cơ tay tý nào \nCó ai có câu nào hay không cho em xin về chép với ạ😘😘😘"
+          },
+          "url": "https://www.facebook.com/groups/chuviettay/permalink/855052258017042/"
+        },
+        "author": {
+          "id": "100014642596932",
+          "name": "Nguyễn Huy",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p50x50/32231260_379070929257657_8369958178258944000_n.jpg?_nc_cat=0&_nc_eui2=AeErgLyGnwgbyy6N3EmeFXrWnMfghxSN2l3Zd8G2Exng-T_aP8ZYuItn3QVUWw5DaAInsHzFF878uDkp26ebqaHI_TL-y9mtXPpNQ7wGYyiPUQ&oh=00283a69214ebcc476e8532d17f9fd7e&oe=5BA87FB8"
+          },
+          "url": "https://www.facebook.com/profile.php?id=100014642596932"
+        },
+        "comment_count": 45,
+        "like_count": 72,
+        "view_count": 540
+      },
+      {
+        "story": {
+          "id": "UzpfSTcxNTg3MTE2ODYwMTgxOTo4NDM3NzAxOTkxNDUyNDg=",
+          "message": {
+            "text": "Ngày người thương một người thương khác :))"
+          },
+          "url": "https://www.facebook.com/groups/chuviettay/permalink/843770199145248/"
+        },
+        "author": {
+          "id": "100010874708484",
+          "name": "Dạ Lý",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p50x50/36176435_604555946583557_5574199395030663168_n.jpg?_nc_cat=0&_nc_eui2=AeHSfXpAEz-e2emEzWYcf7qsakSaK4Ja6m1WSp96gkTfki5mt4yR5b5Nnwod_W78UdkH2CEBH0_6LDsCln5Bdvdoyx290CPOTnghNV9QQBmdGA&oh=0f4fcf9214e581a52d836f8238df54ae&oe=5BA79C94"
+          },
+          "url": "https://www.facebook.com/profile.php?id=100010874708484"
+        },
+        "comment_count": 36,
+        "like_count": 98,
+        "view_count": 933
+      },
+      {
+        "story": {
+          "id": "UzpfSTcxNTg3MTE2ODYwMTgxOTo4NTE2NzA2MjUwMjE4NzI=",
+          "message": {
+            "text": "Mong manh lắm :("
+          },
+          "url": "https://www.facebook.com/groups/chuviettay/permalink/851670625021872/"
+        },
+        "author": {
+          "id": "100023320621140",
+          "name": "Đại Nguyễn Xuân",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p50x50/32579370_208628376591182_6870902321509826560_n.jpg?_nc_cat=0&_nc_eui2=AeE0P7SfSCewDBfPN5kJtQ7SuRTJq3iecV0-rx-W8O1f4pIxhNyiG-WjbcicKCqJYgruYveW9YXmmNyhMEkbGK4gNsvx7uNT79AhrawuRlKiQg&oh=21e2be2f7468938dd4db771a73c7caee&oe=5BAD1D3B"
+          },
+          "url": "https://www.facebook.com/profile.php?id=100023320621140"
+        },
+        "comment_count": 36,
+        "like_count": 86,
+        "view_count": 692
+      },
+      {
+        "story": {
+          "id": "UzpfSTcxNTg3MTE2ODYwMTgxOTo4NDgxMDc5MjUzNzgxNDI=",
+          "message": {
+            "text": "Chỉ bấy nhiêu là đủ thỏa mãn =))"
+          },
+          "url": "https://www.facebook.com/groups/chuviettay/permalink/848107925378142/"
+        },
+        "author": {
+          "id": "100008009862797",
+          "name": "Kỳ Nguyễn",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p50x50/36088398_2098417070435268_8344835093478506496_n.jpg?_nc_cat=0&_nc_eui2=AeHZ_SMMzwCSnAcCmxNc9inel5RtXwfo_jIViG0WZCmKtgei0cSBlAS8Ht1J9CeRFceKk44QoOzgQnHom8Izf4f93saKPLA_bS_WZDXWM_nkdA&oh=7601474f7fbb178e4416eb1e4aa7c0cd&oe=5BBC7BCB"
+          },
+          "url": "https://www.facebook.com/kykaneki.ken"
+        },
+        "comment_count": 36,
+        "like_count": 83,
+        "view_count": 871
+      },
+      {
+        "story": {
+          "id": "UzpfSTcxNTg3MTE2ODYwMTgxOTo4NDc5ODY5MzIwNTY5MDg=",
+          "message": {
+            "text": "Hế lô...mị đây! Mị đã quay trở lại.  Còn ai nhớ mị ko? 😜"
+          },
+          "url": "https://www.facebook.com/groups/chuviettay/permalink/847986932056908/"
+        },
+        "author": {
+          "id": "100002076357185",
+          "name": "Trương Vỹ Huyền",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p50x50/23561583_1527176030694927_8177931730557527257_n.jpg?_nc_cat=0&_nc_eui2=AeEpR44iDW4fm7H7GVHewQrKF2phJfvNbnCudHZI6033ZlWPcUGyAW2AmrDYO20FSJ2zxcLyhizFBrHW530PVn_ruKcFQu1Mqt0MsuTkLV_GBA&oh=a0b2421e2ae53727016ee1d85351024c&oe=5BAB56A8"
+          },
+          "url": "https://www.facebook.com/TruongVyHuyen"
+        },
+        "comment_count": 33,
+        "like_count": 79,
+        "view_count": 455
+      },
+      {
+        "story": {
+          "id": "UzpfSTcxNTg3MTE2ODYwMTgxOTo4NTc4NjE4NTEwNjk0MTY=",
+          "message": {
+            "text": "Nếu bạn chưa khóc bao giờ, thì đôi mắt bạn sẽ không thể đẹp."
+          },
+          "url": "https://www.facebook.com/groups/chuviettay/permalink/857861851069416/"
+        },
+        "author": {
+          "id": "100010874708484",
+          "name": "Dạ Lý",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p50x50/36176435_604555946583557_5574199395030663168_n.jpg?_nc_cat=0&_nc_eui2=AeHSfXpAEz-e2emEzWYcf7qsakSaK4Ja6m1WSp96gkTfki5mt4yR5b5Nnwod_W78UdkH2CEBH0_6LDsCln5Bdvdoyx290CPOTnghNV9QQBmdGA&oh=0f4fcf9214e581a52d836f8238df54ae&oe=5BA79C94"
+          },
+          "url": "https://www.facebook.com/profile.php?id=100010874708484"
+        },
+        "comment_count": 28,
+        "like_count": 69,
+        "view_count": 494
+      },
+      {
+        "story": {
+          "id": "UzpfSTcxNTg3MTE2ODYwMTgxOTo4NTIwMjMzMDE2NTMyNzE=",
+          "message": {
+            "text": "Có người hỏi, rốt cuộc trong chuyện tình cảm, thời điểm nào là thời điểm đau đớn nhất, bất lực nhất của một cuộc tình.\n\nTôi nói, thời điểm đau đớn nhất, nhưng cũng bất lực nhất, chính là thời điểm. Chúng ta vẫn ở bên nhau, nhưng lại không còn đủ tự tin, đủ dũng khí để bao dung đối phương. Chính là thời điểm, ở cạnh nhau nhưng lại không muốn nỗ lực, kề cận bên nhau nhưng lại không đủ sức cố gắng. Đối mặt với nhau chỉ là sự im lặng.\n\nĐó chính là thời điểm tiếp tục không thể, từ bỏ không đành.\n\nGiai đoạn chúng ta đau đớn nhất, chính là khi, đi cạnh người mình thương, lại không biết nói gì. Chính là lúc những tin nhắn hỏi han ngày một thưa thớt, những cuộc gọi thâu đêm gần đi vào câm lặng. Thời điểm mà, chúng ta đều hiểu, mọi sự đang dần khác. Nhưng chúng ta lại không đau lòng.\n\nTôi hỏi bạn mình, thời điểm lúc cả hai sắp chia tay, có điều gì mà mày nhớ nhất. Bạn tôi nói: \"Chính là lúc tao nói chia tay, anh ấy đáp lại vẻn vẹn ba chữ \"Anh biết rồi\".\n\nCó những thời điểm. Đàn ông vô tâm, phụ nữ không khóc. Phụ nữ rơi lệ, đàn ông lại chẳng thấy khổ tâm. Đấy là khi tình cảm đang dần đi đến hữu hạn, giai đoạn kết thúc của một chuyện tình.\n\nKhông níu kéo, không dằn vặt, không đau khổ. Có những cuộc tình, bắt đầu oanh liệt, nhưng kết thúc lặng thinh như thể chưa từng có những tháng ngày yêu đương quên mình.\n\nKhi chúng ta ở cạnh nhau, dành cho nhau hết thảy mọi thứ, nhưng đến khi tình cảm trở nên nhạt nhoà, cũng đừng đối xử với nhau bằng sự lặng im tưởng như vô hình nhưng thực ra tàn nhẫn.\n\nCó những chuyện tình cảm, kết thúc không phải vì không còn yêu nhau, hay một trong hai đã có đối tượng khác....\n\n“Tình cảm bi ai nhất ở chỗ. Anh không muốn cố gắng, em không muốn nỗ lực, tình cảm sinh xa cách. Xa cách sinh bất lực. Bất lực rồi buông tay”.\n\nAnh không nói, em cũng chẳng hỏi. \nAnh quay lưng, em không toan bước. \nAnh từ bỏ, em cũng cười lặng thinh!\n#3year #1_chặng_đường 💔"
+          },
+          "url": "https://www.facebook.com/groups/chuviettay/permalink/852023301653271/"
+        },
+        "author": {
+          "id": "100011135491191",
+          "name": "Nguyễn Thị Dịu",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/c0.0.50.50/p50x50/35971266_588783328169512_1746722414273757184_n.jpg?_nc_cat=0&_nc_eui2=AeHSb8M6gTT6ZG_BKmv1a2iKK8I6L3__klEX4w9NOyPJXdDhqrpHaOBzBsHq-phuZ4MroHKGkHI2ZbN8Wmsj9qNnqLUXjrOIejkO2KcjZ0hNdA&oh=a858631c7887bb26c0f93ff8445e5e64&oe=5BA5EC82"
+          },
+          "url": "https://www.facebook.com/profile.php?id=100011135491191"
+        },
+        "comment_count": 30,
+        "like_count": 58,
+        "view_count": 621
+      }
+    ]
+  },
+  "member": {
+    "top_contributors_breakdown": [
+      {
+        "user": {
+          "id": "100016238052441",
+          "name": "My Tien",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p56x56/26230775_201156767102257_7247244169440761282_n.jpg?_nc_cat=0&_nc_eui2=AeG5_bVLi6EUrPp5QpPDKQG85BN5a3zpIibbcK0kpXXe3Kp5teG8T3_mSie_-R-I327vSWMeuBkB9MxS8wg7ZYKmcpLVLv2Bi4k4k9Fy7EI9Lg&oh=5645f6ce2b5e2d43d01abed56e53827e&oe=5BBB8C1C"
+          },
+          "url": "https://www.facebook.com/mytien.nguyen.1805hoaanhtuc"
+        },
+        "post_count": 14,
+        "comment_count": 156,
+        "like_count": 68
+      },
+      {
+        "user": {
+          "id": "100010874708484",
+          "name": "Dạ Lý",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p56x56/36176435_604555946583557_5574199395030663168_n.jpg?_nc_cat=0&_nc_eui2=AeHSfXpAEz-e2emEzWYcf7qsakSaK4Ja6m1WSp96gkTfki5mt4yR5b5Nnwod_W78UdkH2CEBH0_6LDsCln5Bdvdoyx290CPOTnghNV9QQBmdGA&oh=bfd4a49ab847a75c3125c3c60fd5d68f&oe=5BA7719B"
+          },
+          "url": "https://www.facebook.com/profile.php?id=100010874708484"
+        },
+        "post_count": 23,
+        "comment_count": 54,
+        "like_count": 26
+      },
+      {
+        "user": {
+          "id": "100023320621140",
+          "name": "Đại Nguyễn Xuân",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p56x56/32579370_208628376591182_6870902321509826560_n.jpg?_nc_cat=0&_nc_eui2=AeE0P7SfSCewDBfPN5kJtQ7SuRTJq3iecV0-rx-W8O1f4pIxhNyiG-WjbcicKCqJYgruYveW9YXmmNyhMEkbGK4gNsvx7uNT79AhrawuRlKiQg&oh=2fc49ea9be3f63a90277f1adedd79ead&oe=5BE62334"
+          },
+          "url": "https://www.facebook.com/profile.php?id=100023320621140"
+        },
+        "post_count": 3,
+        "comment_count": 95,
+        "like_count": 33
+      },
+      {
+        "user": {
+          "id": "100011135491191",
+          "name": "Nguyễn Thị Dịu",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/c0.0.56.56/p56x56/35971266_588783328169512_1746722414273757184_n.jpg?_nc_cat=0&_nc_eui2=AeHSb8M6gTT6ZG_BKmv1a2iKK8I6L3__klEX4w9NOyPJXdDhqrpHaOBzBsHq-phuZ4MroHKGkHI2ZbN8Wmsj9qNnqLUXjrOIejkO2KcjZ0hNdA&oh=8844c23829aaf3ae3920f8243b56e752&oe=5BE70D48"
+          },
+          "url": "https://www.facebook.com/profile.php?id=100011135491191"
+        },
+        "post_count": 3,
+        "comment_count": 85,
+        "like_count": 74
+      },
+      {
+        "user": {
+          "id": "100004084032934",
+          "name": "Phạm Nguyễn Phương Uyên",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/c0.0.56.56/p56x56/35924518_1445653222247465_8281954036370898944_n.jpg?_nc_cat=0&_nc_eui2=AeFNpMEff6zQyNWQ4eEH_OnZsidMeyJjMKx4knbAoYIg6x4-r1Xlx6-dzzZMQbkuMljpXBzgBJpYKRlnY4BequCPVoEi0dhg_cbfU4RLbfo2Hg&oh=5baeff5a3a59fc43e4626e69660f7004&oe=5BB3FC3A"
+          },
+          "url": "https://www.facebook.com/uyen.pham.1208"
+        },
+        "post_count": 3,
+        "comment_count": 68,
+        "like_count": 131
+      },
+      {
+        "user": {
+          "id": "100012282766516",
+          "name": "Nguyễn Kim Cương",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p56x56/26230669_453365951749493_8430542953516207316_n.jpg?_nc_cat=0&_nc_eui2=AeFUkkU1s8C8H5XCwjS8DoJQkbSfbtMXJcqP1xqghXCsETd-Z1I6s7IRrn-4OEOf8cmTCl5UAcSKjGeglorACA16YmuA4rQ-4xJbdeOiJFZicA&oh=76463b48244a82b21be9ec04ba5a0e09&oe=5B9F090D"
+          },
+          "url": "https://www.facebook.com/profile.php?id=100012282766516"
+        },
+        "post_count": 7,
+        "comment_count": 33,
+        "like_count": 26
+      },
+      {
+        "user": {
+          "id": "100008009862797",
+          "name": "Kỳ Nguyễn",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p56x56/36088398_2098417070435268_8344835093478506496_n.jpg?_nc_cat=0&_nc_eui2=AeHZ_SMMzwCSnAcCmxNc9inel5RtXwfo_jIViG0WZCmKtgei0cSBlAS8Ht1J9CeRFceKk44QoOzgQnHom8Izf4f93saKPLA_bS_WZDXWM_nkdA&oh=ddd3d9abc2875c1b77977eca27f9668b&oe=5BA18EFE"
+          },
+          "url": "https://www.facebook.com/kykaneki.ken"
+        },
+        "post_count": 4,
+        "comment_count": 40,
+        "like_count": 28
+      },
+      {
+        "user": {
+          "id": "100004485815985",
+          "name": "Dung Pham",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p56x56/29570783_967663166726535_7248150905783274663_n.jpg?_nc_cat=0&_nc_eui2=AeFWiJ_gCvX2DdujBDcGCpNQ5fJRWFblvfrvmSHimpTy72wxSu9WYxC5NIwdHRO8anMhqglPoaKfTWPfCQ02lhwBB3P6fvdPM1lFiudBsN7PXw&oh=25d8cc06c44fb5207b805ec3698a97fd&oe=5BABC158"
+          },
+          "url": "https://www.facebook.com/profile.php?id=100004485815985"
+        },
+        "post_count": 6,
+        "comment_count": 21,
+        "like_count": 24
+      },
+      {
+        "user": {
+          "id": "100005810732877",
+          "name": "Thuyền Quyên",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p56x56/26815428_797274250476259_1146242490962607187_n.jpg?_nc_cat=0&_nc_eui2=AeHyHDoEC1RDCs7DJ5DrXuxf0ofkkg3RXNmZqWG0BmXsDLkimWFa5lOX0myjG42FY-vM8jH-nxGoxVt5NI0K_1u95Bw2sJB1BRy3M9CjFF5XfA&oh=8edccea76bee868a597da266ef46d632&oe=5BB746D9"
+          },
+          "url": "https://www.facebook.com/ut.het.94"
+        },
+        "post_count": 4,
+        "comment_count": 13,
+        "like_count": 76
+      },
+      {
+        "user": {
+          "id": "100010221364390",
+          "name": "Minh Minh Dương",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p56x56/31230515_624031287947578_4843769171881754624_n.jpg?_nc_cat=0&_nc_eui2=AeFuzXfiW38qc-qIbSvMbg_51xXwPxkx0sisw3u6TSvSwEMI1B4HlcR-Gw5DKn-PghmCujikTlpIOAWy4DjCmUZsSgUk-KtL67iSrucPwI56tQ&oh=2b099f0db898e8cf728cbd32153ce46a&oe=5BA7715E"
+          },
+          "url": "https://www.facebook.com/hoaithu.ung.3"
+        },
+        "post_count": 3,
+        "comment_count": 18,
+        "like_count": 28
+      }
+    ],
+    "member_gender_ratio_breakdown": [
+      {
+        "name": "Women",
+        "value": 0.70742454285085,
+        "value_string": "70.8"
+      },
+      {
+        "name": "Men",
+        "value": 0.29147389292796,
+        "value_string": "29.1"
+      },
+      {
+        "name": "Custom",
+        "value": 0.0011015642211941,
+        "value_string": "0.1"
+      }
+    ],
+    "member_gender_age_breakdown": [
+      {
+        "name": "13-17",
+        "male": {
+          "value": 354,
+          "percentage": 0.077990746860542,
+          "percentage_string": "0.078"
+        },
+        "female": {
+          "value": 1274,
+          "percentage": 0.28067856356026,
+          "percentage_string": "0.281"
+        },
+        "custom": {
+          "value": 1,
+          "percentage": 0.00022031284423882,
+          "percentage_string": "0"
+        }
+      },
+      {
+        "name": "18-24",
+        "male": {
+          "value": 710,
+          "percentage": 0.15642211940956,
+          "percentage_string": "0.156"
+        },
+        "female": {
+          "value": 1566,
+          "percentage": 0.34500991407799,
+          "percentage_string": "0.345"
+        },
+        "custom": {
+          "value": 4,
+          "percentage": 0.00088125137695528,
+          "percentage_string": "0.001"
+        }
+      },
+      {
+        "name": "25-34",
+        "male": {
+          "value": 193,
+          "percentage": 0.042520378938092,
+          "percentage_string": "0.043"
+        },
+        "female": {
+          "value": 278,
+          "percentage": 0.061246970698392,
+          "percentage_string": "0.061"
+        },
+        "custom": {
+          "value": 0,
+          "percentage": 0,
+          "percentage_string": "0"
+        }
+      },
+      {
+        "name": "35-44",
+        "male": {
+          "value": 42,
+          "percentage": 0.0092531394580304,
+          "percentage_string": "0.009"
+        },
+        "female": {
+          "value": 60,
+          "percentage": 0.013218770654329,
+          "percentage_string": "0.013"
+        },
+        "custom": {
+          "value": 0,
+          "percentage": 0,
+          "percentage_string": "0"
+        }
+      },
+      {
+        "name": "45-54",
+        "male": {
+          "value": 5,
+          "percentage": 0.0011015642211941,
+          "percentage_string": "0.001"
+        },
+        "female": {
+          "value": 16,
+          "percentage": 0.0035250055078211,
+          "percentage_string": "0.004"
+        },
+        "custom": {
+          "value": 0,
+          "percentage": 0,
+          "percentage_string": "0"
+        }
+      },
+      {
+        "name": "55-64",
+        "male": {
+          "value": 6,
+          "percentage": 0.0013218770654329,
+          "percentage_string": "0.001"
+        },
+        "female": {
+          "value": 5,
+          "percentage": 0.0011015642211941,
+          "percentage_string": "0.001"
+        },
+        "custom": {
+          "value": 0,
+          "percentage": 0,
+          "percentage_string": "0"
+        }
+      },
+      {
+        "name": "65+",
+        "male": {
+          "value": 13,
+          "percentage": 0.0028640669751046,
+          "percentage_string": "0.003"
+        },
+        "female": {
+          "value": 12,
+          "percentage": 0.0026437541308658,
+          "percentage_string": "0.003"
+        },
+        "custom": {
+          "value": 0,
+          "percentage": 0,
+          "percentage_string": "0"
+        }
+      }
+    ],
+    "member_country_breakdown": [
+      {
+        "name": "Vietnam",
+        "value": 4470
+      },
+      {
+        "name": "Japan",
+        "value": 18
+      },
+      {
+        "name": "Taiwan",
+        "value": 11
+      },
+      {
+        "name": "United States",
+        "value": 6
+      },
+      {
+        "name": "China",
+        "value": 4
+      },
+      {
+        "name": "Peru",
+        "value": 4
+      },
+      {
+        "name": "South Korea",
+        "value": 4
+      },
+      {
+        "name": "Russia",
+        "value": 3
+      },
+      {
+        "name": "Laos",
+        "value": 3
+      },
+      {
+        "name": "Germany",
+        "value": 2
+      }
+    ],
+    "member_city_breakdown": [
+      {
+        "name": "Ho Chi Minh City, Vietnam",
+        "value": 732
+      },
+      {
+        "name": "Hanoi, Hà Nội, Vietnam",
+        "value": 469
+      },
+      {
+        "name": "Thanh Hóa, Thanh Hóa Province, Vietnam",
+        "value": 128
+      },
+      {
+        "name": "Hai Duong, Hải Dương Province, Vietnam",
+        "value": 102
+      },
+      {
+        "name": "Bac Ninh, Bắc Ninh Province, Vietnam",
+        "value": 78
+      },
+      {
+        "name": "Quang Ngai, Quảng Ngãi Province, Vietnam",
+        "value": 76
+      },
+      {
+        "name": "Ha Tinh, Hà Tĩnh Province, Vietnam",
+        "value": 75
+      },
+      {
+        "name": "Quy Nhon, Bình Định Province, Vietnam",
+        "value": 74
+      },
+      {
+        "name": "Hue, Thừa Thiên–Huế Province, Vietnam",
+        "value": 73
+      },
+      {
+        "name": "Can Tho, Cần Thơ, Vietnam",
+        "value": 68
+      }
+    ]
+  },
+  "growth": {
+    "daily_member_count": [
+      {
+        "time": 1527231600,
+        "value": 4428
+      },
+      {
+        "time": 1527318000,
+        "value": 4432
+      },
+      {
+        "time": 1527404400,
+        "value": 4432
+      },
+      {
+        "time": 1527490800,
+        "value": 4433
+      },
+      {
+        "time": 1527577200,
+        "value": 4433
+      },
+      {
+        "time": 1527663600,
+        "value": 4434
+      },
+      {
+        "time": 1527750000,
+        "value": 4436
+      },
+      {
+        "time": 1527836400,
+        "value": 4436
+      },
+      {
+        "time": 1527922800,
+        "value": 4438
+      },
+      {
+        "time": 1528009200,
+        "value": 4436
+      },
+      {
+        "time": 1528095600,
+        "value": 4445
+      },
+      {
+        "time": 1528182000,
+        "value": 4445
+      },
+      {
+        "time": 1528268400,
+        "value": 4447
+      },
+      {
+        "time": 1528354800,
+        "value": 4447
+      },
+      {
+        "time": 1528441200,
+        "value": 4455
+      },
+      {
+        "time": 1528527600,
+        "value": 4456
+      },
+      {
+        "time": 1528614000,
+        "value": 4459
+      },
+      {
+        "time": 1528700400,
+        "value": 4457
+      },
+      {
+        "time": 1528786800,
+        "value": 4462
+      },
+      {
+        "time": 1528873200,
+        "value": 4462
+      },
+      {
+        "time": 1528959600,
+        "value": 4506
+      },
+      {
+        "time": 1529046000,
+        "value": 4524
+      },
+      {
+        "time": 1529132400,
+        "value": 4524
+      },
+      {
+        "time": 1529218800,
+        "value": 4532
+      },
+      {
+        "time": 1529305200,
+        "value": 4533
+      },
+      {
+        "time": 1529391600,
+        "value": 4534
+      },
+      {
+        "time": 1529478000,
+        "value": 4540
+      },
+      {
+        "time": 1529564400,
+        "value": 4541
+      },
+      {
+        "time": 1529650800,
+        "value": 4544
+      },
+      {
+        "time": 1529737200,
+        "value": 4546
+      }
+    ],
+    "total_member_count": 4546,
+    "total_member_delta": 0.026648599819332,
+    "join_request_approve_aggregated_count": 160,
+    "join_request_reject_aggregated_count": 2,
+    "join_request_block_aggregated_count": 0,
+    "pending_member_current_count": 1,
+    "daily_member_join_source_breakdown": [
+      {
+        "name": "By Invitation",
+        "value": 27
+      },
+      {
+        "name": "Search",
+        "value": 39
+      },
+      {
+        "name": "Linked Group",
+        "value": 0
+      },
+      {
+        "name": "Organic",
+        "value": 79
+      },
+      {
+        "name": "Linked Page",
+        "value": 0
+      },
+      {
+        "name": "Facebook Suggestions",
+        "value": 1
+      }
+    ]
+  },
+  "highlights": {
+    "highlights": {
+      "new_member_count_highlight": 114,
+      "new_member_delta_highlight": 0.96551724137931,
+      "activity": 8443,
+      "activity_delta": -0.10342996708081,
+      "top_contributors": [
+        {
+          "id": "100016238052441",
+          "name": "My Tien",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p32x32/26230775_201156767102257_7247244169440761282_n.jpg?_nc_cat=0&_nc_eui2=AeG5_bVLi6EUrPp5QpPDKQG85BN5a3zpIibbcK0kpXXe3Kp5teG8T3_mSie_-R-I327vSWMeuBkB9MxS8wg7ZYKmcpLVLv2Bi4k4k9Fy7EI9Lg&oh=9ec2233d2b5f74067de35062f0196b8e&oe=5BAC181C"
+          }
+        },
+        {
+          "id": "100010874708484",
+          "name": "Dạ Lý",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p32x32/36176435_604555946583557_5574199395030663168_n.jpg?_nc_cat=0&_nc_eui2=AeHSfXpAEz-e2emEzWYcf7qsakSaK4Ja6m1WSp96gkTfki5mt4yR5b5Nnwod_W78UdkH2CEBH0_6LDsCln5Bdvdoyx290CPOTnghNV9QQBmdGA&oh=cb0c5cc10de70fe31c6d492479356bf8&oe=5BAB5C9B"
+          }
+        },
+        {
+          "id": "100023320621140",
+          "name": "Đại Nguyễn Xuân",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p32x32/32579370_208628376591182_6870902321509826560_n.jpg?_nc_cat=0&_nc_eui2=AeE0P7SfSCewDBfPN5kJtQ7SuRTJq3iecV0-rx-W8O1f4pIxhNyiG-WjbcicKCqJYgruYveW9YXmmNyhMEkbGK4gNsvx7uNT79AhrawuRlKiQg&oh=68cb5183d4590f2848bedb1ffef85617&oe=5BAD7D34"
+          }
+        },
+        {
+          "id": "100011135491191",
+          "name": "Nguyễn Thị Dịu",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/c0.0.32.32/p32x32/35971266_588783328169512_1746722414273757184_n.jpg?_nc_cat=0&_nc_eui2=AeHSb8M6gTT6ZG_BKmv1a2iKK8I6L3__klEX4w9NOyPJXdDhqrpHaOBzBsHq-phuZ4MroHKGkHI2ZbN8Wmsj9qNnqLUXjrOIejkO2KcjZ0hNdA&oh=f4c20aa13c58a0b6940561b5548a2fa8&oe=5BE676A6"
+          }
+        },
+        {
+          "id": "100004084032934",
+          "name": "Phạm Nguyễn Phương Uyên",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/c0.0.32.32/p32x32/35924518_1445653222247465_8281954036370898944_n.jpg?_nc_cat=0&_nc_eui2=AeFNpMEff6zQyNWQ4eEH_OnZsidMeyJjMKx4knbAoYIg6x4-r1Xlx6-dzzZMQbkuMljpXBzgBJpYKRlnY4BequCPVoEi0dhg_cbfU4RLbfo2Hg&oh=04f5d4ad5f666a11e6b98ab21594591b&oe=5BAAD37F"
+          }
+        },
+        {
+          "id": "100012282766516",
+          "name": "Nguyễn Kim Cương",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p32x32/26230669_453365951749493_8430542953516207316_n.jpg?_nc_cat=0&_nc_eui2=AeFUkkU1s8C8H5XCwjS8DoJQkbSfbtMXJcqP1xqghXCsETd-Z1I6s7IRrn-4OEOf8cmTCl5UAcSKjGeglorACA16YmuA4rQ-4xJbdeOiJFZicA&oh=18336c25dfeaccb22a3bc1fd0dd8bee3&oe=5BA3650D"
+          }
+        },
+        {
+          "id": "100008009862797",
+          "name": "Kỳ Nguyễn",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p32x32/36088398_2098417070435268_8344835093478506496_n.jpg?_nc_cat=0&_nc_eui2=AeHZ_SMMzwCSnAcCmxNc9inel5RtXwfo_jIViG0WZCmKtgei0cSBlAS8Ht1J9CeRFceKk44QoOzgQnHom8Izf4f93saKPLA_bS_WZDXWM_nkdA&oh=3e18b67ff924d7517ce292ee627f46d5&oe=5BB6040B"
+          }
+        },
+        {
+          "id": "100004485815985",
+          "name": "Dung Pham",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p32x32/29570783_967663166726535_7248150905783274663_n.jpg?_nc_cat=0&_nc_eui2=AeFWiJ_gCvX2DdujBDcGCpNQ5fJRWFblvfrvmSHimpTy72wxSu9WYxC5NIwdHRO8anMhqglPoaKfTWPfCQ02lhwBB3P6fvdPM1lFiudBsN7PXw&oh=9c0afb31a34546546308fd4032b4786a&oe=5BEA0658"
+          }
+        },
+        {
+          "id": "100005810732877",
+          "name": "Thuyền Quyên",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p32x32/26815428_797274250476259_1146242490962607187_n.jpg?_nc_cat=0&_nc_eui2=AeHyHDoEC1RDCs7DJ5DrXuxf0ofkkg3RXNmZqWG0BmXsDLkimWFa5lOX0myjG42FY-vM8jH-nxGoxVt5NI0K_1u95Bw2sJB1BRy3M9CjFF5XfA&oh=50c99c0d4adc78a4d423f9bcbeb2dedf&oe=5BB326D9"
+          }
+        },
+        {
+          "id": "100010221364390",
+          "name": "Minh Minh Dương",
+          "profile_picture": {
+            "uri": "https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-1/p32x32/31230515_624031287947578_4843769171881754624_n.jpg?_nc_cat=0&_nc_eui2=AeFuzXfiW38qc-qIbSvMbg_51xXwPxkx0sisw3u6TSvSwEMI1B4HlcR-Gw5DKn-PghmCujikTlpIOAWy4DjCmUZsSgUk-KtL67iSrucPwI56tQ&oh=e7f123e2fdbbf299cd2a94ae79ae7425&oe=5BADCC5E"
+          }
+        }
+      ],
+      "completions": 0
+    }
+  },
+  "last_update": 1529827732
+}
