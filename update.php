@@ -3,7 +3,7 @@
   define('COPYRIGHT', 'J2TEAM');
 
   define('secret','i_am_developer_ysa');
-  define('cookie', 'm_pixel_ratio=1; sb=-pvyWvp82d7Gylsom9Xeywje; datr=-5vyWos-1uZ3qqMqk2HXXxSc; x-referer=eyJyIjoiL3NldHRpbmdzL2Fkcy8iLCJoIjoiL3NldHRpbmdzL2Fkcy8iLCJzIjoibSJ9; locale=en_US; pl=n; c_user=1070119029; xs=49%3A_6ibbGcYmxCAsA%3A2%3A1529659528%3A17170%3A6165; spin=r.4036997_b.trunk_t.1529659529_s.1_v.2_; js_ver=3094; fr=0mH5t6n8ET0LwrlMR.AWWyPtvkMcLWUr7JqNZ-AeA_jYg.Ba8ppT.co.Fss.0.0.BbLM6w.AWWe0FCI; wd=1547x408; act=1529663480850%2F1; presence=EDvF3EtimeF1529663493EuserFA21070119029A2EstateFDutF1529663493952CEchFDp_5f1070119029F3CC');
+  define('cookie', 'sb=OVsvWyax-A_qwEYm5nt1bv8M; datr=SVsvWxGnhP5tCIXKUcUelAV0; dpr=2; locale=en_US; c_user=1070119029; xs=30%3AiXJOzLLjkHVDew%3A2%3A1529831847%3A17170%3A6165; pl=n; spin=r.4041621_b.trunk_t.1529831848_s.1_v.2_; fr=0uMBeSWYlMVjgFKA8.AWXXUrvoLh0alS6yzn9wT0PAHtI.BbL1oy.JA.Fsv.0.0.BbL8r6.AWVx2WrY; act=1529861247161%2F0; presence=EDvF3EtimeF1529861648EuserFA21070119029A2EstateFDutF1529861648071CEchFDp_5f1070119029F2CC; wd=1280x312');
   define('gid','715871168601819');
 ?>
 
@@ -73,7 +73,7 @@
   function doAll() {
     try {
       $headers = [
-        "User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+        "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
         "Content-Type: application/x-www-form-urlencoded",
         "Cookie: ".cookie
       ];
